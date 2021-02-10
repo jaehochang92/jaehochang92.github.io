@@ -13,8 +13,8 @@ redirect_from:
 </p> -->
 
 # About Me
-* I am a prospective Ph.D. student planning to study in the United States. I earned bachelor's and master's degrees in Applied Statistics at [Konkuk University](http://www.konkuk.ac.kr/do/Eng/Index.do) under the supervision of Prof. [Kyusang Yu](http://home.konkuk.ac.kr/~kyusangu).
+* I am a prospective Ph.D. student planning to study in the United States. I earned bachelor's and master's degrees in Applied Statistics at [Konkuk University](http://www.konkuk.ac.kr/do/Eng/Index.do) under the supervision of professor [Kyusang Yu](http://home.konkuk.ac.kr/~kyusangu).
 
-* My research interests are statistical learning and its applications on biomedical data.
+* My research interests are statistical learning and its applications to biomedical data.
 
 <!-- * [[Google Scholar](https://scholar.google.com/...)] -->
