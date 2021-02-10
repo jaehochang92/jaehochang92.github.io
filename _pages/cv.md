@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Lantao Yu (于澜涛)"
+title: "Jae Ho Chang (張載昊)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://lantaoyu.github.io/files/lantaoyu_cv.pdf)
+[View My Up-to-date Resume](http://jaehochang92.github.io/files/jae_cv.pdf)
 
-<!-- <embed src="http://lantaoyu.com/files/lantaoyu_cv.pdf" width="650" height="1800" type='application/pdf'> -->
+<!-- <embed src="http://jaehochang92.com/files/jae_cv.pdf" width="650" height="1800" type='application/pdf'> -->
