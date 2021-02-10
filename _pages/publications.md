@@ -5,13 +5,13 @@ author_profile: true
 ---
 <br>
 
-<b>[High-dimensional linear discriminant analysis with moderately clipped LASSO](http://www.csam.or.kr/journal/view.html?uid=1933&&vmd=Full)</b> <br>
+<b>[High-dimensional linear discriminant analysis with moderately clipped LASSO](https://doi.org/10.29220/CSAM.2021.28.1.021)</b> <br>
 <b>Chang J</b>, Moon H, Kwon S.
-<i>Communications for Statistical Applications and Methods 2021;28:21-37</i> (https://doi.org/10.29220/CSAM.2021.28.1.021)
+<i>Communications for Statistical Applications and Methods 2021;</i> 28:21-37.
 
-<b>[A Study on the Conflict Structure of the Standing Committee through Topic Analysis of the National Assembly Minutes: Health and Welfare Committee in the First Half of the 20th National Assembly.](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09360747#)</b> <br>
+<b>[A Study on the Conflict Structure of the Standing Committee through Topic Analysis of the National Assembly Minutes: Health and Welfare Committee in the First Half of the 20th National Assembly.](https://doi.org/10.30992/KPSR.2020.06.19.2.131)</b> <br>
 Lee H, <b>Chang J</b>, Kim G.
-<i>Korean Party Studies Review, 19(2), 131-167.</i> (https://doi.org/10.30992/KPSR.2020.06.19.2.131)
+<i>Korean Party Studies Review</i>, 19(2), 131-167.
 
 <!-- <b>[Understanding self-supervised learning with dual deep networks](http://lantaoyu.com/publications/SSLTheory)</b> <br>
 Yuandong Tian, <b>Lantao Yu</b>, Xinlei Chen, Surya Ganguli.
@@ -26,4 +26,4 @@ Chenlin Meng, <b>Lantao Yu</b>, Yang Song, Jiaming Song, and Stefano Ermon.
 <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>. <b><span style="color:red">(Long Oral)</span></b> -->
 
 
-[\* denotes equal contribution]
+<!-- [\* denotes equal contribution] -->

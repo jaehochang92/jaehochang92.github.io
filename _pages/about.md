@@ -13,6 +13,6 @@ redirect_from:
 </p> -->
 
 # About Me
-* I am a prospective Ph.D. student in the United States. I earned bachelor's and master's degrees in Applied Statistics at [Konkuk University] (http://www.konkuk.ac.kr/do/Eng/Index.do), advised by Prof. [Kyusang Yu](http://home.konkuk.ac.kr/~kyusangu). [[Curriculum Vitae](http://lantaoyu.com/files/jae_cv.pdf)] 
+* I am a prospective Ph.D. student in the United States. I earned bachelor's and master's degrees in Applied Statistics at [Konkuk University](http://www.konkuk.ac.kr/do/Eng/Index.do), advised by Prof. [Kyusang Yu](http://home.konkuk.ac.kr/~kyusangu). [[Curriculum Vitae](http://lantaoyu.com/files/jae_cv.pdf)] 
 <!-- [[Google Scholar](https://scholar.google.com/...)] -->
 * My research interests are statistical learning and its applications on biomedical data.
