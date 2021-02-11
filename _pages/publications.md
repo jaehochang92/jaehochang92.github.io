@@ -1,8 +1,10 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com)"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<a href="https://scholar.google.com" target="_blank">Google Scholar<a>
+
 <br>
 
 <b><a href="https://doi.org/10.29220/CSAM.2021.28.1.021" target="_blank">High-dimensional linear discriminant analysis with moderately clipped LASSO</a></b><br>
