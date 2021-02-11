@@ -32,9 +32,12 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+// $global-font-family         : $sans-serif;
+// $header-font-family         : $sans-serif;
+// $caption-font-family        : $serif;
+$global-font-family         : $ubuntu;
+$header-font-family         : $ubuntu;
+$caption-font-family        : $ubuntu;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
