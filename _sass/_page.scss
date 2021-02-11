@@ -50,6 +50,11 @@
 
 .page__content {
 
+  #text {
+    font-family: $ubuntu;
+    font-size: $type-size-6;
+  }
+  
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
@@ -57,7 +62,7 @@
 
   p, li, dl, a, b, h4 {
     font-family: $ubuntu;
-    font-size: $type-size-6
+    font-size: $type-size-6;
   }
 
   /* paragraph indents */
