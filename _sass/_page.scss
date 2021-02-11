@@ -25,9 +25,7 @@
 
   .page__inner-wrap {
     font-size: $type-size-6;
-
     @include full();
-
     .page__content,
     .page__meta,
     .page__share {
