@@ -1,9 +1,9 @@
 ---
+<!-- layout: archive -->
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<p>
 <a href="https://scholar.google.com" target="_blank">Google Scholar<a>
 <br>
 
@@ -25,4 +25,3 @@ Chenlin Meng, <b>Lantao Yu</b>, Yang Song, Jiaming Song, and Stefano Ermon.
 
 
 <!-- [\* denotes equal contribution] -->
-</p>
