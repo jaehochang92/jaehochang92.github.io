@@ -12,7 +12,6 @@ redirect_from:
 * My research interests are statistical learning and its applications to biomedical data.
   
 * I am an instrumental progressive music enthusiast! I have played the electronic guitar for over 15 years, and I am a huge fan of Eric Johnson and John Petrucci.
-
-<br>
-
-<img src="https://jaehochang92.github.io/images/music.png?raw=true" alt="Photo">
+  \
+  \
+  ![music](https://jaehochang92.github.io/images/music.png?raw=true)
