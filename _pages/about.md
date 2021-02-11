@@ -17,14 +17,19 @@ redirect_from:
 <li>
   I am a prospective Ph.D. student planning to study in the United States. I earned bachelor's and master's degrees in Applied Statistics at <a href="http://www.konkuk.ac.kr/do/Eng/Index.do" target="_blank">Konkuk University</a> under the supervision of professor <a href="http://home.konkuk.ac.kr/~kyusangu" target="_blank">Kyusang Yu</a>.
 </li>
+
 <br>
+
 <li>
   My research interests are statistical learning and its applications to biomedical data.
 </li>
+
 <br>
+
 <li>
   I am an instrumental progressive music enthusiast! I have played the electronic guitar for over 15 years, and I am a huge fan of Eric Johnson and John Petrucci.
 </li>
+
 <br>
+
 <img src="https://jaehochang92.github.io/images/music.png?raw=true" alt="Photo">
-<!-- * [[Google Scholar](https://scholar.google.com/...)] -->
