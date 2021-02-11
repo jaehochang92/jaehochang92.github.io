@@ -7,10 +7,7 @@ author_profile: true
 Google Scholar
 <a>
 
-<b><a href="https://doi.org/10.29220/CSAM.2021.28.1.021" target="_blank">
-High-dimensional linear discriminant analysis with moderately clipped LASSO</a></b>
-
-<br>
+<b><a href="https://doi.org/10.29220/CSAM.2021.28.1.021" target="_blank">High-dimensional linear discriminant analysis with moderately clipped LASSO</a></b>
 
 <b>Chang J</b>, Moon H, Kwon S. (2021),
 <i>Communications for Statistical Applications and Methods</i>, 28:21-37.
