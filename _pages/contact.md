@@ -6,4 +6,6 @@ author_profile: true
 ---
 <!-- Department, University<br> -->
 <!-- building, street, state zipcode<br> -->
-Email: cjhsfl@gmail.com
+cjhsfl@gmail.com\
+<b>KR</b> (+82) 10-9490-7035\
+<b>US</b>
