@@ -13,6 +13,7 @@ redirect_from:
 </p> -->
 
 # About Me
+
 <li>
   I am a prospective Ph.D. student planning to study in the United States. I earned bachelor's and master's degrees in Applied Statistics at <a href="http://www.konkuk.ac.kr/do/Eng/Index.do" target="_blank">Konkuk University</a> under the supervision of professor <a href="http://home.konkuk.ac.kr/~kyusangu" target="_blank">Kyusang Yu</a>.
 </li>
