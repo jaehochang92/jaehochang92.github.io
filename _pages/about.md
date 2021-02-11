@@ -26,5 +26,5 @@ redirect_from:
   I am an instrumental progressive music enthusiast! I have played the electronic guitar for over 15 years, and I am a huge fan of Eric Johnson and John Petrucci.
 </li>
 <br>
-<img src=url(/images/music.png) width="100%">
+<img src="https://jaehochang92.github.io/images/music.png?raw=true" alt="Photo" style="width: 450px;">
 <!-- * [[Google Scholar](https://scholar.google.com/...)] -->
