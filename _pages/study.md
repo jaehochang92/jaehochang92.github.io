@@ -10,8 +10,6 @@ author_profile: true
     }
 </style>
 
-## PLS
-
 ## Bash
 
 > `$ echo -e "-e allows\nescaping characters"`
