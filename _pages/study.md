@@ -10,6 +10,13 @@ author_profile: true
     }
 </style>
 
+## PLS
+
+Consider a penalized least square problem;
+
+$$L(\beta)=||y-X\beta||_2^2+J_\lambda(\beta)$$
+$$\hat\beta=\underset{\beta}{\arg\min}~L(\beta)$$
+
 ## Bash
 
 > `$ echo -e "-e allows\nescaping characters"`
