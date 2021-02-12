@@ -247,10 +247,10 @@ author_profile: true
   escaping characters
   ```
 
-  > `$ cat -n test.txt`\
+  `$ cat -n test.txt`\
   ㄴ `-n` enumerates each line
 
-  > `$ bash .../target.sh`\
+  `$ bash .../target.sh`\
   ㄴ runs inexecutable script
 
   <h2>Gits</h2>
