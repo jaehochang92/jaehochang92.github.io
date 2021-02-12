@@ -32,21 +32,21 @@ School|Program|Result
 -|-|-
 University of South Carolina|Statistics|<span style="color:green">Accepted</span>
 Seoul National Uuniversity|Data Science|<span style="color:green">Accepted</span>
-Duke University|Biostatistics|<span style="color:yellow">Interviewed</span>
+<a href="https://applygp.duke.edu/apply/?sr=cef36fc0-412c-43f4-b99d-b9999b35b33b" target="_blank">Duke University|Biostatistics|<span style="color:yellow">Interviewed</span>
 <a href="https://inetapps.nus.edu.sg/GDA2/Home.aspx" target="_blank">National University of Singapore|Statistics|Pending
 <a href="https://appstatus.as.pitt.edu/" target="_blank">University of Pittsburgh|Statistics|Pending
-Colorado State University|Statistics|Pending
-University of Iowa|Statistics|Pending
-Ohio State University|Statistics|Pending
-Rice University|Statistics|Pending
-Penn State University|Statistics|Pending
-Michigan State University|Statistics|Pending
-University of California, Riverside|Statistics|Pending
-University of California, Davis|Statistics|Pending
-University of California, Santa Barbara|Statistics|Pending
-University of Florida|Biostatistics|Pending
+<a href="https://gradadmissions.colostate.edu/apply/" target="_blank">Colorado State University|Statistics|Pending
+<a href="https://myui.uiowa.edu/my-ui/home.page" target="_blank">University of Iowa|Statistics|Pending
+<a href="http://appstatus.osu.edu/" target="_blank">Ohio State University|Statistics|Pending
+<a href="https://gradadmissions.rice.edu/apply/?sr=76eb18ca-4404-4aa4-ac40-ac38e69df57c" target="_blank">Rice University|Statistics|Pending
+<a href="https://secure.gradsch.psu.edu/app/gradapp/" target="_blank">Penn State University|Statistics|Pending
+<a href="https://www.google.com/url?q=http://admissions.msu.edu/gradportal&sa=D&ust=1606131163825000&usg=AFQjCNFZQXlXogYbfoeLF95w3aNs0wy2oA" target="_blank">Michigan State University|Statistics|Pending
+<a href="https://gradsis.ucr.edu/gradsis/GSIS_LOGIN.Login_student" target="_blank">University of California, Riverside|Statistics|Pending
+<a href="https://apply.grad.ucdavis.edu/apply/" target="_blank">University of California, Davis|Statistics|Pending
+<a href="https://www.graddiv.ucsb.edu/eapp/Login.aspx" target="_blank">University of California, Santa Barbara|Statistics|Pending
+<a href="https://my.admissions.ufl.edu/?e=jaehochang%40konkuk.ac.kr" target="_blank">University of Florida|Biostatistics|Pending
 Emory University|Biostatistics|Pending
-University of NC, Chapel Hill|Biostatistics|Pending
+<a href="https://applynow.unc.edu/apply/" target="_blank">University of NC, Chapel Hill|Biostatistics|Pending
 NC State University|Statistics|<span style="color:red">Rejected</span>
 Purdue University|Statistics|<span style="color:red">Rejected</span>
 University of California, LA|Biostatistics|<span style="color:red">Rejected</span>
