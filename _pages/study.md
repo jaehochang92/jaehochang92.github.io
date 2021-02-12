@@ -4,10 +4,8 @@ permalink: /study/
 author_profile: true
 ---
 
-  <br>
-
   #### MIT OCW: Theory of Probability
-  
+  <br>
   <table summary="See table caption for summary." class="tablewidth75">
     <thead>
       <tr>
