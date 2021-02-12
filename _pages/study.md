@@ -6,6 +6,8 @@ author_profile: true
 
 ### <a href="https://ocw.mit.edu/courses/mathematics/18-175-theory-of-probability-spring-2014/lecture-slides/" target="_break">MIT OCW: Theory of Probability
 
+<br>
+
 <style>
     code {
         font-size: .75rem;
