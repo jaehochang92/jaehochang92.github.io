@@ -3,11 +3,11 @@ main:
   - title: "Resume"
     url: /files/jae_cv.pdf
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Academic Works"
+    url: /academic/
 
-  - title: "Awards & Honors"
-    url: /awards/
+  - title: "Study"
+    url: /study/
 
   - title: "PhD Apps"
     url: /jonbur/
