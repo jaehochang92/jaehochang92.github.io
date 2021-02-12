@@ -4,7 +4,7 @@ permalink: /study/
 author_profile: true
 ---
 
-### MIT OCW: Theory of Probability
+<h3> >MIT OCW: Theory of Probability</h3>
 
   <style>
     code {
