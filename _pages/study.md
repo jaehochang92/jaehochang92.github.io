@@ -5,13 +5,11 @@ author_profile: true
 ---
 
 <h3>MIT OCW: Theory of Probability</h3>
-
   <style>
     code {
       font-size: .75rem;
     }
   </style>
-  <br>
   <table summary="See table caption for summary." class="tablewidth75">
     <thead>
       <tr>
