@@ -45,11 +45,6 @@ Here are some of my favorite songs that I played on the guitar.
             </g>
           </g>
         </svg></div>
-      <div style="padding-top: 8px;">
-        <div
-          style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">
-          View this post on Instagram</div>
-      </div>
       <div style="padding: 12.5% 0;"></div>
       <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;">
         <div>
@@ -88,11 +83,6 @@ Here are some of my favorite songs that I played on the guitar.
         <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div>
       </div>
     </a>
-    <p
-      style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
-      <a href="https://www.instagram.com/p/BP73lZPhA0C/?utm_source=ig_embed&amp;utm_campaign=loading"
-        style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;"
-        target="_blank">A post shared by CJH (@gitarist_cjh)</a></p>
   </div>
 </blockquote>
 <script async src="//www.instagram.com/embed.js"></script>
@@ -130,11 +120,6 @@ Here are some of my favorite songs that I played on the guitar.
             </g>
           </g>
         </svg></div>
-      <div style="padding-top: 8px;">
-        <div
-          style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">
-          View this post on Instagram</div>
-      </div>
       <div style="padding: 12.5% 0;"></div>
       <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;">
         <div>
@@ -173,11 +158,5 @@ Here are some of my favorite songs that I played on the guitar.
         <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div>
       </div>
     </a>
-    <p
-      style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
-      <a href="https://www.instagram.com/p/BQwlq_vActG/?utm_source=ig_embed&amp;utm_campaign=loading"
-        style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;"
-        target="_blank">A post shared by CJH (@gitarist_cjh)</a></p>
-  </div>
 </blockquote>
 <script async src="//www.instagram.com/embed.js"></script>
