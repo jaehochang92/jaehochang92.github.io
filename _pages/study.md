@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <style>
-    body {
+    code {
         font-size: .75rem;
     }
 </style>
@@ -13,10 +13,12 @@ author_profile: true
 ## Bash
 
 > `$ echo -e "-e allows\nescaping characters"`
+
 ```
 -e allows
 escaping characters
 ```
+
 > `$ cat -n test.txt`\
 ㄴ `-n`  enumerates each line
 
