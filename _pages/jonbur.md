@@ -26,11 +26,15 @@ author_profile: true
         }
     </style>
 
-### Fingers crossed!<a href="https://forum.thegradcafe.com/forum/48-mathematics-and-statistics" target="_blank">CLICK HERE FOR FORUM</a>
+### Fingers crossed! <a href="https://forum.thegradcafe.com/forum/48-mathematics-and-statistics" target="_blank">CLICK HERE FOR FORUM</a>
 
-x|y|z
+School|Program|Result
 -|-|-
-1|2|3
+University of South Carolina|Statistics|<span style="color:green">Accepted</span>
+Seoul National Uuniversity|Data Science|<span style="color:green">Accepted</span>
+Duke University|Biostatistics|<span style="color:yellow">Interviewed</span>
+NCSU|Statistics|<span style="color:red">Rejected</span>
+UCLA|Biostatistics|<span style="color:red">Rejected</span>
 
 ### Statistics
 <body>
