@@ -3,13 +3,14 @@ title: "Study"
 permalink: /study/
 author_profile: true
 ---
+
+  #### MIT OCW: Theory of Probability
+  
   <style>
     code {
       font-size: .75rem;
     }
   </style>
-
-  #### MIT OCW: Theory of Probability
   <br>
   <table summary="See table caption for summary." class="tablewidth75">
     <thead>
