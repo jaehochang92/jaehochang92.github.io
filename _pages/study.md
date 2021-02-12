@@ -3,13 +3,16 @@ title: "Study"
 permalink: /study/
 author_profile: true
 ---
+
 ## Bash
 
 > `$ echo -e "-e allows\nescaping characters"`
+
 ```
 -e allows
 escaping characters
 ```
+
 > `cat -n test.txt` 
 
 ㄴ `-n`  enumerates each line
@@ -19,6 +22,7 @@ escaping characters
 ㄴ runs inexecutable script
 
 ## C
+
 
 
 ## Gits
