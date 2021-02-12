@@ -4,8 +4,8 @@ permalink: /study/
 author_profile: true
 ---
 
-  #### MIT OCW: Theory of Probability
-  
+### MIT OCW: Theory of Probability
+
   <style>
     code {
       font-size: .75rem;
