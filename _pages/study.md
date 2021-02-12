@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <style>
-    code {
+    code p>code {
         font-size: .75rem;
     }
 </style>
@@ -24,10 +24,6 @@ escaping characters
 
 > `$ bash .../target.sh`\
 ㄴ runs inexecutable script
-
-## C
-
-
 
 ## Gits
 
