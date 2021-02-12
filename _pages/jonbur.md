@@ -40,7 +40,7 @@ Seoul National Uuniversity|Data Science|<span style="color:green">Accepted</span
 <a href="http://appstatus.osu.edu/" target="_blank">Ohio State University|Statistics|Pending
 <a href="https://gradadmissions.rice.edu/apply/?sr=76eb18ca-4404-4aa4-ac40-ac38e69df57c" target="_blank">Rice University|Statistics|Pending
 <a href="https://secure.gradsch.psu.edu/app/gradapp/" target="_blank">Penn State University|Statistics|Pending
-<a href="https://www.google.com/url?q=http://admissions.msu.edu/gradportal&sa=D&ust=1606131163825000&usg=AFQjCNFZQXlXogYbfoeLF95w3aNs0wy2oA" target="_blank">Michigan State University|Statistics|Pending
+<a href="https://admissions.msu.edu/gradportal/" target="_blank">Michigan State University|Statistics|Pending
 <a href="https://gradsis.ucr.edu/gradsis/GSIS_LOGIN.Login_student" target="_blank">University of California, Riverside|Statistics|Pending
 <a href="https://apply.grad.ucdavis.edu/apply/" target="_blank">University of California, Davis|Statistics|Pending
 <a href="https://www.graddiv.ucsb.edu/eapp/Login.aspx" target="_blank">University of California, Santa Barbara|Statistics|Pending
