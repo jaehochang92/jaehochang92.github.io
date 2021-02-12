@@ -13,8 +13,8 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* 내꺼야!!! */
-$ubuntu                     : Ubuntu, sans-serif;
-$ubuntu-mono                : Ubuntu Mono, monospace;
+$my-font                     : Teko, sans-serif;
+$my-mono                : Space Mono, monospace;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
@@ -35,9 +35,9 @@ $garamond                   : Garamond, serif;
 // $global-font-family         : $sans-serif;
 // $header-font-family         : $sans-serif;
 // $caption-font-family        : $serif;
-$global-font-family         : $ubuntu;
-$header-font-family         : $ubuntu;
-$caption-font-family        : $ubuntu;
+$global-font-family         : $my-font;
+$header-font-family         : $my-font;
+$caption-font-family        : $my-font;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
