@@ -23,13 +23,13 @@ thead {
 th {
   padding: 0.5em;
   font-weight: bold;
-  font-size: $type-size-7;
   text-align: left;
   background-color: #000;
   border-right: 1px solid $light-gray;
 }
 
 td {
+  font-size: $type-size-7;
   padding: 0.5em;
   border-bottom: 1px solid $light-gray;
   border-right: 1px solid $light-gray;
