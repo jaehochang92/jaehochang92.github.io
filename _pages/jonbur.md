@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "PhD Applications..."
-permalink: /jonbur/
+permalink: /jb/
 author_profile: true
 ---
 <style type="text/css">
@@ -33,8 +33,22 @@ School|Program|Result
 University of South Carolina|Statistics|<span style="color:green">Accepted</span>
 Seoul National Uuniversity|Data Science|<span style="color:green">Accepted</span>
 Duke University|Biostatistics|<span style="color:yellow">Interviewed</span>
-NCSU|Statistics|<span style="color:red">Rejected</span>
-UCLA|Biostatistics|<span style="color:red">Rejected</span>
+University of Pittsburgh|Statistics|Pending
+Colorado State University|Statistics|Pending
+University of Iowa|Statistics|Pending
+Ohio State University|Statistics|Pending
+Rice University|Statistics|Pending
+Penn State University|Statistics|Pending
+Michigan State University|Statistics|Pending
+University of California, Riverside|Statistics|Pending
+University of California, Davis|Statistics|Pending
+University of California, Santa Barbara|Statistics|Pending
+University of Florida|Biostatistics|Pending
+Emory University|Biostatistics|Pending
+University of NC, Chapel Hill|Biostatistics|Pending
+NC State University|Statistics|<span style="color:red">Rejected</span>
+Purdue University|Statistics|<span style="color:red">Rejected</span>
+University of California, LA|Biostatistics|<span style="color:red">Rejected</span>
 
 ### Statistics
 <body>

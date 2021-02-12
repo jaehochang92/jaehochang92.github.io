@@ -15,8 +15,8 @@ main:
   - title: "Contact"
     url: /contact/
 
-  - title: "PhD Apps"
-    url: /jonbur/
+  # - title: "PhD Apps"
+  #   url: /jb/
 
   # - title: "Talks"
   #   url: /talks/
