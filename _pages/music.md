@@ -9,6 +9,8 @@ huge fan of Eric Johnson and John Petrucci.
 \
 ![music](https://jaehochang92.github.io/images/music.png?raw=true)
 
+Here are some of my favorite songs that I played on the guitar.
+
 <blockquote class="instagram-media" data-instgrm-captioned
   data-instgrm-permalink="https://www.instagram.com/p/BP73lZPhA0C/?utm_source=ig_embed&amp;utm_campaign=loading"
   data-instgrm-version="13"
