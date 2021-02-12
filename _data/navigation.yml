@@ -9,14 +9,20 @@ main:
   - title: "Awards & Honors"
     url: /awards/
 
-  - title: "Jonburing..."
+  - title: "PhD Apps"
     url: /jonbur/
 
+  - title: "Music"
+      url: /music/
+
+  - title: "Contact"
+    url: /contact/
+
   # - title: "Talks"
-  #   url: /talks/    
+  #   url: /talks/
 
   # - title: "Teaching"
-  #   url: /teaching/    
+  #   url: /teaching/
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -24,8 +30,5 @@ main:
   # - title: "Blogs"
   #   url: /year-archive/
     
-  - title: "Contact"
-    url: /contact/  
-    
   # - title: "Guide"
-    # url: /markdown/
+  #   url: /markdown/
