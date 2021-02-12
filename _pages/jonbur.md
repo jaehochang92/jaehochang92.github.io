@@ -4,8 +4,7 @@ title: "PhD Applications..."
 permalink: /jonbur/
 author_profile: true
 ---
-<body>
-    <style type="text/css">
+<style type="text/css">
         iframe {
             position: relative;
             /* pointer-events: none; */
@@ -26,17 +25,19 @@ author_profile: true
             width: 600px;
         }
     </style>
-    <h4>Fingers crossed!
-        <a href="https://forum.thegradcafe.com/forum/48-mathematics-and-statistics" target="_blank">
-            CLICK HERE FOR FORUM
-        </a>
-    </h4>
-    <h4>Statistics</h4>
-    <div id='wrapper'>
-        <iframe src="https://www.thegradcafe.com/survey/index.php?q=statistics"></iframe>
-    </div>
-    <h4>Biostatistics</h4>
-    <div id='wrapper'>
-        <iframe src="https://www.thegradcafe.com/survey/index.php?q=biostatistics"></iframe>
-    </div>
+
+### Fingers crossed!<a href="https://forum.thegradcafe.com/forum/48-mathematics-and-statistics" target="_blank">CLICK HERE FOR FORUM</a>
+
+x|y|z
+-|-|-
+1|2|3
+
+### Statistics
+<body>
+    <div id='wrapper'><iframe src="https://www.thegradcafe.com/survey/index.php?q=statistics"></iframe></div>
+</body>
+
+### Biostatistics
+<body>
+    <div id='wrapper'><iframe src="https://www.thegradcafe.com/survey/index.php?q=biostatistics"></iframe></div>
 </body>
