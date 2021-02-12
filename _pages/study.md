@@ -6,8 +6,9 @@ author_profile: true
 
   <br>
 
+  #### MIT OCW: Theory of Probability
+  
   <table summary="See table caption for summary." class="tablewidth75">
-    <caption class="invisible">MIT OCW: Theory of Probability</caption>
     <thead>
       <tr>
         <th scope="col">LEC&nbsp;#</th>
