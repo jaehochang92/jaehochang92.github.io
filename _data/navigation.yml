@@ -13,7 +13,7 @@ main:
     url: /jonbur/
 
   - title: "Music"
-      url: /music/
+    url: /music/
 
   - title: "Contact"
     url: /contact/
