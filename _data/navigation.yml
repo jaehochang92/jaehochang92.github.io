@@ -9,14 +9,14 @@ main:
   - title: "Study"
     url: /study/
 
-  - title: "PhD Apps"
-    url: /jonbur/
-
   - title: "Music"
     url: /music/
 
   - title: "Contact"
     url: /contact/
+
+  - title: "PhD Apps"
+    url: /jonbur/
 
   # - title: "Talks"
   #   url: /talks/
