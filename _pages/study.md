@@ -4,7 +4,7 @@ permalink: /study/
 author_profile: true
 ---
 
-<h3>MIT OCW: Theory of Probability</h3>
+<h2>MIT OCW: Theory of Probability</h2>
   <style>
     code {
       font-size: .75rem;
