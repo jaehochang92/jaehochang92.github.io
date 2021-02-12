@@ -17,28 +17,45 @@ $indent-var                 : 1.3em;
 $my-font                    : Lora, serif;
 $my-mono                    : "Space Mono", monospace;
 
+$global-font-family         : $my-font;
+$header-font-family         : $my-font;
+$caption-font-family        : $my-font;
+
 /* system typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$serif                      : $my-font;
+$sans-serif                 : $my-font;
+$monospace                  : $my-mono;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
-$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+$helvetica                  : $my-font;
 
 /* serif typefaces */
-$georgia                    : Georgia, serif;
-$times                      : Times, serif;
-$bodoni                     : "Bodoni MT", serif;
-$calisto                    : "Calisto MT", serif;
-$garamond                   : Garamond, serif;
+$georgia                    : $my-font;
+$times                      : $my-font;
+$bodoni                     : $my-font;
+$calisto                    : $my-font;
+$garamond                   : $my-font;
+
+// /* system typefaces */
+// $serif                      : Georgia, Times, serif;
+// $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+// $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+
+// /* sans serif typefaces */
+// $sans-serif-narrow          : $sans-serif;
+// $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+
+// /* serif typefaces */
+// $georgia                    : Georgia, serif;
+// $times                      : Times, serif;
+// $bodoni                     : "Bodoni MT", serif;
+// $calisto                    : "Calisto MT", serif;
+// $garamond                   : Garamond, serif;
 
 // $global-font-family         : $sans-serif;
 // $header-font-family         : $sans-serif;
 // $caption-font-family        : $serif;
-$global-font-family         : $my-font;
-$header-font-family         : $my-font;
-$caption-font-family        : $my-font;
 
 /* type scale */
 $type-size-1                : 2.441rem;  // ~39.056px
