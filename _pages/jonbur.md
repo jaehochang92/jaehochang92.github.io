@@ -26,7 +26,8 @@ author_profile: true
     }
 </style>
 
-### Fingers crossed! <a href="https://forum.thegradcafe.com/forum/48-mathematics-and-statistics" target="_blank">HERE IS THE LINK TO FORUM</a>
+### Fingers crossed! 
+> <a href="https://forum.thegradcafe.com/forum/48-mathematics-and-statistics" target="_blank">HERE IS THE LINK TO FORUM</a>
 <br>
 
 School|Program|Result
