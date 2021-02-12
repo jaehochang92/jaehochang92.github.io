@@ -9,5 +9,5 @@ building, street, state zipcode
 
 cjhsfl@gmail.com
 
-> <b>KR</b> (+82) 10-9490-7035\
+> <b>KR</b> `(+82) 10-9490-7035`\
 <b>US</b>
