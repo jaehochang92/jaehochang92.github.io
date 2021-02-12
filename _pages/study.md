@@ -10,6 +10,13 @@ author_profile: true
     }
 </style>
 
+```c
+  #include<stdio.h>
+  int main() {
+    printf("Hello, I'm Jae. Welcome to my github page!");
+  }
+  ```
+
 ## Bash
 
 > `$ echo -e "-e allows\nescaping characters"`
