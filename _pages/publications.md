@@ -3,6 +3,7 @@ title: "Academic Works"
 permalink: /academic/
 author_profile: true
 ---
+
 ## Publications
 
 1. **Chang, J.**, Moon, H., & Kwon, S. (2021). <a href="https://doi.org/10.29220/CSAM.2021.28.1.021" target="_blank">High-dimensional linear discriminant analysis with moderately clipped LASSO</a>. _Communications for Statistical Applications and Methods_, 28(1), 21-37.
