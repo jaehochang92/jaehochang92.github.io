@@ -61,7 +61,7 @@ author_profile: true
         <td>8</td>
         <td><a
             href="https://ocw.mit.edu/courses/mathematics/18-175-theory-of-probability-spring-2014/lecture-slides/MIT18_175S14_Lecture8.pdf" target="_blank">Weak
-            Laws and Moment-Generating and Characteristic Functions (PDF)</a></td>
+            Laws and MGF and Characteristic Functions (PDF)</a></td>
       </tr>
       <tr class="row">
         <td>9</td>
