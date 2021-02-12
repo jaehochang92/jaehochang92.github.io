@@ -33,8 +33,8 @@ School|Program|Result
 University of South Carolina|Statistics|<span style="color:green">Accepted</span>
 Seoul National Uuniversity|Data Science|<span style="color:green">Accepted</span>
 Duke University|Biostatistics|<span style="color:yellow">Interviewed</span>
-National University of Singapore|Statistics|Pending
-University of Pittsburgh|Statistics|Pending
+<a href=https://inetapps.nus.edu.sg/GDA2/Home.aspx target=_blank>National University of Singapore|Statistics|Pending
+<a href=https://inetapps.nus.edu.sg/GDA2/Home.aspx target="_blank">University of Pittsburgh|Statistics|Pending
 Colorado State University|Statistics|Pending
 University of Iowa|Statistics|Pending
 Ohio State University|Statistics|Pending
