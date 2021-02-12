@@ -12,7 +12,7 @@ redirect_from:
   ```c
   #include<stdio.h>
   int main() {
-    printf("Hello, Jae!");
+    printf("Hello, I'm Jae!");
   }
   ```
 
