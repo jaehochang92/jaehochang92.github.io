@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <style>
-    code p>code {
+    code {
         font-size: .75rem;
     }
 </style>
