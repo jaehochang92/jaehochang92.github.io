@@ -238,7 +238,7 @@ author_profile: true
     }
   ```
 
-  ## Bash
+  <h2>Bash</h2>
 
   > `$ echo -e "-e allows\nescaping characters"`
 
@@ -253,7 +253,7 @@ author_profile: true
   > `$ bash .../target.sh`\
   ㄴ runs inexecutable script
 
-  ## Gits
+  <h2>Gits</h2>
 
   * `git log -n3 code.py` shows the last 3 commits within `code.py`
   * `git show [commit-identifier]` shows the details of the commit
