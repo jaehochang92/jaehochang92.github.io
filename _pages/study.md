@@ -4,6 +4,12 @@ permalink: /study/
 author_profile: true
 ---
 
+<style>
+    body {
+        font-size: .75rem;
+    }
+</style>
+
 ## Bash
 
 > `$ echo -e "-e allows\nescaping characters"`
