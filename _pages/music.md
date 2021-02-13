@@ -7,7 +7,7 @@ author_profile: true
 <br>
 
 I am an instrumental progressive music enthusiast. I have played the electronic guitar for over 15 years, and I am a
-huge fan of <a href="EJ" target="_blank">Eric Johnson</a> and <a href="JP" target="_blank">John Petrucci</a>.
+huge fan of <a href="EJ">Eric Johnson</a> and <a href="JP">John Petrucci</a>.
 \
 \
 ![music](https://jaehochang92.github.io/images/music.png?raw=true)
