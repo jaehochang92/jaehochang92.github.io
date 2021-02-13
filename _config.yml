@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jae Ho Chang"
 title_separator          : "-"
 name                     : &name "Jae Ho Chang"
-description              : &description "Prospective Ph.D. student"
+description              : &description "Jae's github page"
 url                      : https://jaehochang92.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jaehochang92/jaehochang92.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Jae Ho Chang"
   avatar           : "jae.jpg"
-  bio              : "(OR Jae)"
+  bio              : "(Jae)"
   location         : "NYJ, KR"
   employer         : 
   googlescholar    : 
