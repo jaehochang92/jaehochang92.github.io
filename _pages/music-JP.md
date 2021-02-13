@@ -1,5 +1,5 @@
 ---
-title: "Eric Johnson"
+title: "John Petrucci"
 permalink: /music/JP/
 author_profile: true
 ---
