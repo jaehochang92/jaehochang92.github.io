@@ -12,7 +12,7 @@ author_profile: true
 
 ## Manuscript
 
-1. Lee, S., **Chang, J.**, & Kim, H. (2018) Ultimate sharpening of Jensen’s Inequality <a href="https://mc.manuscriptcentral.com/gsta" target="_blank">[manuscript submitted for publication]</a>. Department of Applied Statistics, Konkuk University.
+1. Lee, S., **Chang, J.**, & Kim, H. (2018) _Ultimate sharpening of Jensen’s Inequality_ <a href="https://mc.manuscriptcentral.com/gsta" target="_blank">[manuscript submitted for publication]</a>. Department of Applied Statistics, Konkuk University.
 
 ## Award & Honor
 
