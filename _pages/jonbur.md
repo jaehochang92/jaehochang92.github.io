@@ -33,7 +33,7 @@ author_profile: true
 School|Program|Result
 -|-|-
 University of South Carolina|Statistics|<span style="color:green">Accepted</span>
-Seoul National Uuniversity|Data Science|<span style="color:green">Accepted</span>
+Seoul National University|Data Science|<span style="color:green">Accepted</span>
 <a href="https://applygp.duke.edu/apply/?sr=cef36fc0-412c-43f4-b99d-b9999b35b33b" target="_blank">Duke University|Biostatistics|<span style="color:yellow">Interviewed</span>
 <a href="https://inetapps.nus.edu.sg/GDA2/Home.aspx" target="_blank">National University of Singapore|Statistics|Pending
 <a href="https://appstatus.as.pitt.edu/" target="_blank">University of Pittsburgh|Statistics|Pending
