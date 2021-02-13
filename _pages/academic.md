@@ -16,4 +16,4 @@ author_profile: true
 
 ## Award & Honor
 
-1. **Honorable Mention** awarded for the poster presentation of _Ultimate Sharpening of Jensen's Inequality_, <a href="http://www.kss.or.kr/eng/en_about_kss.html" target="_blank">The Korean Statistical Society</a>
+1. **Honorable Mention** awarded for the poster presentation of _Ultimate Sharpening of Jensen's Inequality_, Spring 2019, <a href="http://www.kss.or.kr/eng/en_about_kss.html" target="_blank">KSS</a> Conference
