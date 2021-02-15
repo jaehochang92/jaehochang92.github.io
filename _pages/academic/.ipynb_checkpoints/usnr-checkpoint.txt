@@ -1,0 +1,593 @@
+University of Texas--San Antonio (Department of Management Science and Statistics)
+San Antonio, TX
+
+#97 in Statistics (tie)
+
+University of North Carolina--Charlotte (Department of Mathematics and Statistics)
+Charlotte, NC
+
+#97 in Statistics (tie)
+
+2.0
+Virginia Commonwealth University (Department of Biostatistics)
+Richmond, VA
+
+#93 in Statistics (tie)
+
+2.1
+University of Cincinnati (Division of Epidemiology & Biostatistics)
+Cincinnati, OH
+
+#93 in Statistics (tie)
+
+2.1
+University at Albany--SUNY (Department of Epidemiology & Biostatistics)
+Rensselaer, NY
+
+#93 in Statistics (tie)
+
+2.1
+San Diego State University (Department of Mathematics and Statistics)
+San Diego, CA
+
+#93 in Statistics (tie)
+
+2.1
+Virginia Commonwealth University (Department of Statistics)
+Richmond, VA
+
+#89 in Statistics (tie)
+
+2.2
+University of Kentucky (Department of Statistics)
+Lexington, KY
+
+#89 in Statistics (tie)
+
+2.2
+University of Kansas Medical Center (Department of Biostatistics)
+Kansas City, KS
+
+#89 in Statistics (tie)
+
+2.2
+University of Alabama--Birmingham (Department of Biostatistics)
+Birmingham, AL
+
+#89 in Statistics (tie)
+
+2.2
+University of South Carolina (Epidemiology and Biostatistics)
+Columbia, SC
+
+#83 in Statistics (tie)
+
+2.3
+University of Colorado--Denver (Department of Mathematical and Statistical Sciences)
+Denver, CO
+
+#83 in Statistics (tie)
+
+2.3
+University at Buffalo--SUNY (Department of Biostatistics)
+Buffalo, NY
+
+#83 in Statistics (tie)
+
+2.3
+Kansas State University (Department of Statistics)
+Manhattan, KS
+
+#83 in Statistics (tie)
+
+2.3
+George Mason University (Department of Statistics)
+Fairfax, VA
+
+#83 in Statistics (tie)
+
+2.3
+Baylor University (Department of Statistical Science)
+Waco, TX
+
+#83 in Statistics (tie)
+
+2.3
+University of Massachusetts--Amherst (Division of Biostatistics and Epidemiology)
+Amherst, MA
+
+#79 in Statistics (tie)
+
+2.4
+Temple University (Department of Statistics)
+Philadelphia, PA
+
+#79 in Statistics (tie)
+
+2.4
+Case Western Reserve University (Department of Statistics)
+Cleveland, OH
+
+#79 in Statistics (tie)
+
+2.4
+Arizona State University (School of Mathematical & Statistical Sciences)
+Tempe, AZ
+
+#79 in Statistics (tie)
+
+2.4
+University of South Carolina (Department of Statistics)
+Columbia, SC
+
+#74 in Statistics (tie)
+
+2.5
+University of Massachusetts--Amherst (Department of Mathematics and Statistics)
+Amherst, MA
+
+#74 in Statistics (tie)
+
+2.5
+University of Colorado--Denver (Department of Biostatistics and Informatics)
+Aurora, CO
+
+#74 in Statistics (tie)
+
+2.5
+University of California--Riverside (Department of Statistics)
+Riverside, CA
+
+#74 in Statistics (tie)
+
+2.5
+Oregon State University (Department of Statistics)
+Corvallis, OR
+
+#74 in Statistics (tie)
+
+2.5
+University of Virginia (Department of Statistics)
+Charlottesville, VA
+
+#69 in Statistics (tie)
+
+2.6
+University of Maryland--Baltimore County (Department of Mathematics and Statistics)
+Baltimore, MD
+
+#69 in Statistics (tie)
+
+2.6
+Southern Methodist University (Department of Statistical Science)
+Dallas, TX
+
+#69 in Statistics (tie)
+
+2.6
+Indiana University--Bloomington (Department of Statistics)
+Bloomington, IN
+
+#69 in Statistics (tie)
+
+2.6
+Case Western Reserve University (Department of Epidemiology and Biostatistics)
+Cleveland, OH
+
+#69 in Statistics (tie)
+
+2.6
+University of Illinois--Chicago (Epidemiology and Biostatistics Division)
+Chicago, IL
+
+#67 in Statistics (tie)
+
+2.7
+University of California--Santa Barbara (Department of Statistics and Applied Probability)
+Santa Barbara, CA
+
+#67 in Statistics (tie)
+
+2.7
+Virginia Tech (Department of Statistics)
+Blacksburg, VA
+
+#61 in Statistics (tie)
+
+2.8
+University of Missouri--Columbia (Department of Statistics)
+Columbia, MO
+
+#61 in Statistics (tie)
+
+2.8
+University of Georgia (Department of Statistics)
+Athens, GA
+
+#61 in Statistics (tie)
+
+2.8
+New York University (Department of Information, Operations, and Management Sciences)
+New York, NY
+
+#61 in Statistics (tie)
+
+2.8
+Medical College of Wisconsin (Division of Biostatistics)
+Milwaukee, WI
+
+#61 in Statistics (tie)
+
+2.8
+George Washington University (Department of Statistics)
+Washington, DC
+
+#61 in Statistics (tie)
+
+2.8
+University of Texas Health Science Center--Houston (University of Texas MD Anderson Cancer Center UTHealth)
+Houston, TX
+
+#55 in Statistics (tie)
+
+2.9
+University of Rochester (Department of Biostatistics and Computational Biology)
+Rochester, NY
+
+#55 in Statistics (tie)
+
+2.9
+University of Pittsburgh (Department of Statistics)
+Pittsburgh, PA
+
+#55 in Statistics (tie)
+
+2.9
+University of Iowa (Department of Biostatistics)
+Iowa City, IA
+
+#55 in Statistics (tie)
+
+2.9
+University of Florida (Department of Biostatistics)
+Gainesville, FL
+
+#55 in Statistics (tie)
+
+2.9
+Northwestern University (Department of Statistics)
+Evanston, IL
+
+#55 in Statistics (tie)
+
+2.9
+University of Texas--Austin (Department of Statistics and Data Science)
+Austin, TX
+
+#50 in Statistics (tie)
+
+3.0
+University of Pittsburgh (Department of Biostatistics)
+Pittsburgh, PA
+
+#50 in Statistics (tie)
+
+3.0
+University of California--Irvine (Department of Statistics)
+Irvine, CA
+
+#50 in Statistics (tie)
+
+3.0
+University of California--Davis (Graduate Group in Biostatistics)
+Davis, CA
+
+#50 in Statistics (tie)
+
+3.0
+Michigan State University (Department of Statistics and Probability)
+East Lansing, MI
+
+#50 in Statistics (tie)
+
+3.0
+Boston University (School of Public Health)
+Boston, MA
+
+#50 in Statistics (tie)
+
+3.0
+Vanderbilt University (Department of Biostatistics)
+Nashville, TN
+
+#44 in Statistics (tie)
+
+3.1
+University of Connecticut (Department of Statistics)
+Storrs, CT
+
+#44 in Statistics (tie)
+
+3.1
+Florida State University (Department of Statistics)
+Tallahassee, FL
+
+#44 in Statistics (tie)
+
+3.1
+Duke University (Department of Biostatistics and Bioinformatics)
+Durham, NC
+
+#44 in Statistics (tie)
+
+3.1
+Colorado State University (Department of Statistics)
+Fort Collins, CO
+
+#44 in Statistics (tie)
+
+3.1
+Brown University (Department of Biostatistics)
+Providence, RI
+
+#44 in Statistics (tie)
+
+3.1
+Rice University (Department of Statistics)
+Houston, TX
+
+#43 in Statistics
+
+3.2
+University of Iowa (Department of Statistics and Actuarial Science)
+Iowa City, IA
+
+#40 in Statistics (tie)
+
+3.3
+University of Florida (Department of Statistics)
+Gainesville, FL
+
+#40 in Statistics (tie)
+
+3.3
+Rutgers University--New Brunswick (Department of Statistics and Biostatistics)
+Piscataway, NJ
+
+#40 in Statistics (tie)
+
+3.3
+University of Illinois--Urbana-Champaign (Department of Statistics)
+Champaign, IL
+
+#37 in Statistics (tie)
+
+3.4
+Ohio State University (Department of Statistics)
+Columbus, OH
+
+#37 in Statistics (tie)
+
+3.4
+Emory University (Department of Biostatistics and Bioinformatics)
+Atlanta, GA
+
+#37 in Statistics (tie)
+
+3.4
+Yale University (Department of Statistics)
+New Haven, CT
+
+#31 in Statistics (tie)
+
+3.5
+Yale University (Department of Biostatistics)
+New Haven, CT
+
+#31 in Statistics (tie)
+
+3.5
+University of Pennsylvania (Department of Biostatistics & Epidemiology)
+Philadelphia, PA
+
+#31 in Statistics (tie)
+
+3.5
+University of California--Los Angeles (Department of Statistics)
+Los Angeles, CA
+
+#31 in Statistics (tie)
+
+3.5
+University of California--Davis (Department of Statistics)
+Davis, CA
+
+#31 in Statistics (tie)
+
+3.5
+Johns Hopkins University (Department of Applied Mathematics and Statistics)
+Baltimore, MD
+
+#31 in Statistics (tie)
+
+3.5
+University of Texas MD Anderson (Department of Biostatistics)
+Houston, TX
+
+#27 in Statistics (tie)
+
+3.6
+University of California--Los Angeles (Department of Biostatistics)
+Los Angeles, CA
+
+#27 in Statistics (tie)
+
+3.6
+Purdue University--West Lafayette (Department of Statistics)
+West Lafayette, IN
+
+#27 in Statistics (tie)
+
+3.6
+Columbia University (Department of Biostatistics)
+New York, NY
+
+#27 in Statistics (tie)
+
+3.6
+University of Wisconsin--Madison (School of Medicine and Public Health)
+Madison, WI
+
+#24 in Statistics (tie)
+
+3.7
+University of Minnesota--Twin Cities (School of Statistics)
+Minneapolis, MN
+
+#24 in Statistics (tie)
+
+3.7
+University of Minnesota--Twin Cities (School of Public Health)
+Minneapolis, MN
+
+#24 in Statistics (tie)
+
+3.7
+Texas A&M University--College Station (Department of Statistics)
+College Station, TX
+
+#20 in Statistics (tie)
+
+3.8
+Pennsylvania State University (Department of Statistics)
+University Park, PA
+
+#20 in Statistics (tie)
+
+3.8
+Iowa State University (Department of Statistics)
+Ames, IA
+
+#20 in Statistics (tie)
+
+3.8
+Cornell University (Department of Statistical Science)
+Ithaca, NY
+
+#20 in Statistics (tie)
+
+3.8
+University of North Carolina--Chapel Hill (Department of Statistics & Operations Research)
+Chapel Hill, NC
+
+#19 in Statistics
+
+3.9
+University of Wisconsin--Madison (Department of Statistics)
+Madison, WI
+
+#16 in Statistics (tie)
+
+4.0
+North Carolina State University (Department of Statistics)
+Raleigh, NC
+
+#16 in Statistics (tie)
+
+4.0
+Columbia University (Department of Statistics)
+New York, NY
+
+#16 in Statistics (tie)
+
+4.0
+University of Pennsylvania (Department of Statistics)
+Philadelphia, PA
+
+#12 in Statistics (tie)
+
+4.1
+University of Michigan--Ann Arbor (Department of Statistics)
+Ann Arbor, MI
+
+#12 in Statistics (tie)
+
+4.1
+University of California--Berkeley (Group in Biostatistics)
+Berkeley, CA
+
+#12 in Statistics (tie)
+
+4.1
+Duke University (Department of Statistical Science)
+Durham, NC
+
+#12 in Statistics (tie)
+
+4.1
+University of Michigan--Ann Arbor (Department of Biostatistics)
+Ann Arbor, MI
+
+#11 in Statistics
+
+4.2
+University of Washington (Department of Statistics)
+Seattle, WA
+
+#8 in Statistics (tie)
+
+4.3
+University of North Carolina--Chapel Hill (Department of Biostatistics)
+Chapel Hill, NC
+
+#8 in Statistics (tie)
+
+4.3
+Carnegie Mellon University (Department of Statistics)
+Pittsburgh, PA
+
+#8 in Statistics (tie)
+
+4.3
+University of Chicago (Department of Statistics)
+Chicago, IL
+
+#6 in Statistics (tie)
+
+4.4
+Harvard University (Department of Statistics)
+Cambridge, MA
+
+#6 in Statistics (tie)
+
+4.4
+University of Washington (Department of Biostatistics)
+Seattle, WA
+
+#3 in Statistics (tie)
+
+4.6
+Johns Hopkins University (Department of Biostatistics)
+Baltimore, MD
+
+#3 in Statistics (tie)
+
+4.6
+Harvard University (Department of Biostatistics)
+Boston, MA
+
+#3 in Statistics (tie)
+
+4.6
+University of California--Berkeley (Department of Statistics)
+Berkeley, CA
+
+#2 in Statistics
+
+4.7
+Stanford University (Department of Statistics)
+Stanford, CA
+
+#1 in Statistics
+
+5.0
