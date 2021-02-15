@@ -12,6 +12,6 @@ huge fan of <a href="EJ">Eric Johnson</a> and <a href="JP">John Petrucci</a>.
 \
 ![music](https://jaehochang92.github.io/images/music.png?raw=true)
 
-I covered some of my favorite songs <a href='my' target='_blank'>here</a>.
+I covered some of my favorite songs <a href='my'>here</a>.
 
 <img src='https://jaehochang92.github.io/images/fender-elite-autumn-blaze.png' width='50%'>
