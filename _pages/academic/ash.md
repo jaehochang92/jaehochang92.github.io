@@ -88,3 +88,5 @@ ggplot(df) +
   geom_histogram(aes(x = data,y= ..density..),colour = "black",fill = "cadetblue3",stat = 'bin')+
   geom_line(aes(x = x,y = f,lty = 'ASH'))
 ```
+
+<img src='https://jaehochang92.github.io/images/ash.svg' width='50%'>
