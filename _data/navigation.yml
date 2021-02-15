@@ -6,8 +6,8 @@ main:
   - title: "Academic Works"
     url: /academic/
 
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
 
   - title: "Study"
     url: /study/
