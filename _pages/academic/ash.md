@@ -40,7 +40,7 @@ NumericVector Cfx (NumericVector x, NumericVector data, int K, int m) {
     return ret/(n*h) ;
 }
 ```
->You can include R code blocks in C++ files processed with sourceCpp(useful for testing and development). The R code will be automatically  run after the compilation.
+>You can include R code blocks in C++ files processed with `sourceCpp`(useful for testing and development). The R code will be automatically  run after the compilation.
 
 Main R code
 ```r
