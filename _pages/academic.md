@@ -21,5 +21,5 @@ author_profile: true
 ### Miscellaneous
 
 1. Product kernel implemented in R
-2. Product kernel implemented in R
+2. ASH implemented in Rcpp
 3. Product kernel implemented in R
