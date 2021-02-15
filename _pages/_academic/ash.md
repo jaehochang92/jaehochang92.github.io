@@ -1,3 +1,9 @@
+---
+title: "Academic Works"
+permalink: /academic/ash/
+author_profile: true
+---
+
 ASH.cpp\
 Don't forget to include `// [[Rcpp::export()]]`!
 ```cpp
