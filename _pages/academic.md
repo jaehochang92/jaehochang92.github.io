@@ -19,9 +19,10 @@ author_profile: true
 1. **Honorable Mention** awarded for the poster presentation of _Ultimate Sharpening of Jensen's Inequality_, 2019 <a href="http://www.kss.or.kr/eng/en_about_kss.html" target="_blank">KSS</a> Spring Conference
 
 ### Nonparametric Function Estimation, Spring 2019, Konkuk University
-1. <a href='https://cjhsfl.shinyapps.io/ProductKernel' target='_blank'>Product kernel implemented in R</a>
+1. <a href='conv' target='_blank'>Convolution of density functions</a>
 2. <a href='ash' target='_blank'>ASH implemented in Rcpp</a>
-3. <a href='nfe-final-report' target='_blank'>Final report</a>
+3. <a href='https://cjhsfl.shinyapps.io/ProductKernel' target='_blank'>Product kernel implemented in R</a>
+4. <a href='nfe-final-report' target='_blank'>Final report</a>
 
 ### Miscellaneous
 
