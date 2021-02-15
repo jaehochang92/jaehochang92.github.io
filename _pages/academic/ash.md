@@ -89,4 +89,4 @@ ggplot(df) +
   geom_line(aes(x = x,y = f,lty = 'ASH'))
 ```
 
-<img src='https://jaehochang92.github.io/images/ash.svg' width='100%'>
+<img src='https://jaehochang92.github.io/images/ash.svg' width="600px">
