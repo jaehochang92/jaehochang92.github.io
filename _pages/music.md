@@ -17,4 +17,4 @@ I covered some of my favorite songs <a href='my' target='_blank'>here</a>.
 
 <br>
 
-<img src='images/fender-elite-autumn-blaze.png' width='70%'>
+<img src='https://jaehochang92.github.io/images/fender-elite-autumn-blaze.png' width='50%'>
