@@ -53,12 +53,6 @@ Emory University|Biostatistics|Pending
 ~~University of California, LA~~|~~Biostatistics~~|<span style="color:red">Rejected</span>
 ~~Penn State University~~|~~Statistics~~|<span style="color:red">Rejected</span>
 
-## Statistics
-<html href='https://www.thegradcafe.com/survey/index.php?q=statistics'>
-<script>
-document.querySelector("body > main > section.submissions > div > table")
-</script>
-</html>
+## <a href='https://www.thegradcafe.com/survey/index.php?q=statistics' target='_blank'>Statistics
 
-## Btatistics
-https://www.thegradcafe.com/survey/index.php?q=biostatistics
+## <a href='https://www.thegradcafe.com/survey/index.php?q=biostatistics' target='_blank'>Btatistics
