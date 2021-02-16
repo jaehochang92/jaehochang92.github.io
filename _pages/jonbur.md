@@ -27,7 +27,7 @@ author_profile: true
 
 ### Fingers crossed! 
 > <a href="https://forum.thegradcafe.com/forum/48-mathematics-and-statistics" target="_blank">FORUM</a>\
-> <a href="https://www.thegradcafe.com" target="_blank">RESULTS</a>
+> <a href="https://www.thegradcafe.com/survey/index.php" target="_blank">RESULTS</a>
 <br>
 
 ## <a href='https://www.thegradcafe.com/survey/index.php?q=statistics' target='_blank'>Statistics
