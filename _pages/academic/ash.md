@@ -74,5 +74,4 @@ ggplot(df) +
   ) +
   geom_line(aes(x = x, y = f, lty = 'ASH'), lwd = 1.2, col = 'blue')
 ```
-
 <img src='https://jaehochang92.github.io/images/ash.svg' width="700px">
