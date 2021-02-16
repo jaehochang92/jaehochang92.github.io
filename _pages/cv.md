@@ -13,7 +13,7 @@ __B.A. in Applied Statistics, Mar 2012 -- Feb 2018, Konkuk University, Seoul, So
 * Cumulative major GPA: 4.31/4.50
 * Served in Republic of Korea Army from Feb 2014 to Nov 2015
 
-## Academic Awards \& Scholarships
+## Academic Awards & Scholarships
 __Poster awards, May 25, 2019, 2019 Spring Conference, Korean Statistical Society__
 * Honorable mention awarded for the poster presentation of _Ultimate sharpening of Jensen’s Inequality_
 ## Technical Skills

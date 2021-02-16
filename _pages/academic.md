@@ -11,7 +11,5 @@ author_profile: true
 
 ## <a href='https://jaehochang92.github.io/_pages/academic/bayesab.html' target='_blank'> Bayesian AB testing</a>
 
-<br>
-
 ## Miscellaneous
 1. <a href="https://cjhsfl.shinyapps.io/OrderMe" target='_blank'>OrderMe.io</a>
