@@ -29,7 +29,7 @@ author_profile: true
 > <a href="https://forum.thegradcafe.com/forum/48-mathematics-and-statistics" target="_blank">FORUM</a>\
 <a href="https://www.thegradcafe.com/survey/index.php" target="_blank">RESULTS</a>\
 <a href='https://www.thegradcafe.com/survey/index.php?q=statistics' target='_blank'>Statistics</a>\
-<a href='https://www.thegradcafe.com/survey/index.php?q=biostatistics' target='_blank'>Btatistics</a>
+<a href='https://www.thegradcafe.com/survey/index.php?q=biostatistics' target='_blank'>Biostatistics</a>
 
 School|Program|Result
 -|-|-
