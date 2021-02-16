@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Resume"
-    url: /files/jae_cv.pdf
+  - title: "Curriculum Vitae"
+    url: /cv/
 
   - title: "Academic Works"
     url: /academic/
