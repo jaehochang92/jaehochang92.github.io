@@ -8,13 +8,13 @@ author_profile: true
     iframe {
         position: relative;
         /* pointer-events: none; */
-        top: -540px;
+        top: -700px;
         left: -40px;
         height: 2500px;
         width: 1200px;
         
         zoom: 1;
-        -webkit-transform: scale(.565);
+        -webkit-transform: scale(.8);
         -webkit-transform-origin: 0 0;
     }
 
@@ -22,7 +22,7 @@ author_profile: true
         overflow: hidden;
         border: 1px solid orange;
         height: 500px;
-        width: 600px;
+        width: 880px;
     }
 </style>
 
