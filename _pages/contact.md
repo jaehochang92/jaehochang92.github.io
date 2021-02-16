@@ -4,8 +4,9 @@ title: "Contact Me"
 permalink: /contact/
 author_profile: true
 ---
-Department of Statistics, University\
-building, street, state zipcode
+(Undecided yet)\
+Department of Statistics, University of South Carolina\
+216 LeConte College, 1523 Greene Street, Columbia, S.C. 29208
 
 cjhsfl@gmail.com
 
