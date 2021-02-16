@@ -10,8 +10,8 @@ John Petrucci is a single lead & rhythm guitarist of the band Dream Theater. He 
 
 My favorite video clips from John:
 
-<iframe width="60%" src="https://www.youtube.com/embed/dIzObVL7140?start=21" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="280" height="157" src="https://www.youtube.com/embed/dIzObVL7140?start=21" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
-<iframe width="60%" src="https://www.youtube.com/embed/-5VwPfyEq3w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="280" height="157" src="https://www.youtube.com/embed/-5VwPfyEq3w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
