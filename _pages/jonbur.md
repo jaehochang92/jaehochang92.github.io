@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "PhD Applications..."
+title: "박사는 존버다"
 permalink: /jb/
 author_profile: true
 ---
