@@ -49,10 +49,10 @@ Seoul National University|Data Science|<span style="color:green">Accepted</span>
 <a href="https://my.admissions.ufl.edu/?e=jaehochang%40konkuk.ac.kr" target="_blank">University of Florida|Biostatistics|Pending
 Emory University|Biostatistics|Pending
 <a href="https://applynow.unc.edu/apply/" target="_blank">University of NC, Chapel Hill|Biostatistics|Pending
-NC State University|Statistics|<span style="color:red">Rejected</span>
-Purdue University|Statistics|<span style="color:red">Rejected</span>
-University of California, LA|Biostatistics|<span style="color:red">Rejected</span>
-Penn State University|Statistics|<span style="color:red">Rejected</span>
+~~NC State University~~|~~Statistics~~|<span style="color:red">Rejected</span>
+~~Purdue University~~|~~Statistics~~|<span style="color:red">Rejected</span>
+~~University of California, LA~~|~~Biostatistics~~|<span style="color:red">Rejected</span>
+~~Penn State University~~|~~Statistics~~|<span style="color:red">Rejected</span>
 
 ### Statistics
 <body>
