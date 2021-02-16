@@ -30,6 +30,10 @@ author_profile: true
 > <a href="https://www.thegradcafe.com" target="_blank">RESULTS</a>
 <br>
 
+## <a href='https://www.thegradcafe.com/survey/index.php?q=statistics' target='_blank'>Statistics
+
+## <a href='https://www.thegradcafe.com/survey/index.php?q=biostatistics' target='_blank'>Btatistics
+
 School|Program|Result
 -|-|-
 University of South Carolina|Statistics|<span style="color:green">Accepted</span>
@@ -52,7 +56,3 @@ Emory University|Biostatistics|Pending
 ~~Purdue University~~|~~Statistics~~|<span style="color:red">Rejected</span>
 ~~University of California, LA~~|~~Biostatistics~~|<span style="color:red">Rejected</span>
 ~~Penn State University~~|~~Statistics~~|<span style="color:red">Rejected</span>
-
-## <a href='https://www.thegradcafe.com/survey/index.php?q=statistics' target='_blank'>Statistics
-
-## <a href='https://www.thegradcafe.com/survey/index.php?q=biostatistics' target='_blank'>Btatistics
