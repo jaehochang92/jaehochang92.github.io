@@ -54,7 +54,7 @@ Emory University|Biostatistics|Pending
 ~~Penn State University~~|~~Statistics~~|<span style="color:red">Rejected</span>
 
 ## Statistics
-<html href='https://www.thegradcafe.com/survey/index.php?q=statistics/body'>
+<html href='https://www.thegradcafe.com/survey/index.php?q=statistics'>
 <script>
 document.querySelector("body > main > section.submissions > div > table")
 </script>
