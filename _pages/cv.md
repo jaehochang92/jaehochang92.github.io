@@ -16,7 +16,7 @@ B.A. in Applied Statistics, Mar 2012 -- Feb 2018, Konkuk University, Seoul, Sout
 ## Academic Awards \& Scholarships
 Poster awards, May 25, 2019, 2019 Spring Conference, Korean Statistical Society
 * Honorable mention awarded for the poster presentation of _Ultimate sharpening of Jensen’s Inequality_
-* 
+
 Academic Achievement Scholarship on the fulfillment of the top 5%, Fall 2012 & Fall 2016\
 Research Assistant Scholarships, 2018 -- 2019\
 Teaching Assistant Scholarships, 2019\
