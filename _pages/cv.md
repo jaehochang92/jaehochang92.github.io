@@ -54,5 +54,5 @@ __Head Research Assistant, Mar 2018 -- Dec 2019, Statistical Consulting Office a
 __Articles, 2018 -- Present__
 * __Chang, J.__, Moon, H. & Kwon, S. (In press) High-dimensional Linear Discriminant Analysis with Moderately Clipped LASSO. _Communications for Statistical Applications and Methods._
 * Lee, S., __Chang, J.__ & Kim, H. (2018) _Ultimate sharpening of Jensen's Inequality._ [manuscript submitted for publication.] The Department of Applied Statistics, Konkuk University.
-* Lee, H., __Chang, J.__, \& Kim, G. (2020). A Study on the Conflict Structure of the Standing Committee through Topic Analysis of the National Assembly Minutes Health and Welfare Committee in the First Half of the 20th National Assembly. _Korean Party Studies Review_, 19(2), 131-167
+* Lee, H., __Chang, J.__, & Kim, G. (2020). A Study on the Conflict Structure of the Standing Committee through Topic Analysis of the National Assembly Minutes Health and Welfare Committee in the First Half of the 20th National Assembly. _Korean Party Studies Review_, 19(2), 131-167
 * Lee, H., Kim, G., __Chang, J.__ Kim, H. (2020). The Dynamics of Member’s Bill Proposal: Health and Welfare Committee of the 20th National Assembly. _Journal of Future Politics_, 10(1), 33-65
