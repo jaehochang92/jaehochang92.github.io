@@ -10,7 +10,7 @@ author_profile: true
 <a href="https://www.thegradcafe.com/survey/index.php" target="_blank">RESULTS</a>
 
 ><a href='https://www.thegradcafe.com/survey/index.php?q=statistics' target='_blank'><span style="color:green">Statistics</span></a>\
-<a href='https://www.thegradcafe.com/survey/index.php?q=biostatistics' target='_blank'><span style="color:blue">Biostatistics</span></a>
+<a href='https://www.thegradcafe.com/survey/index.php?q=biostatistics' target='_blank'><span style="color:skyblue">Biostatistics</span></a>
 
 School|Program|Result
 -|-|-
