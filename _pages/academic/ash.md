@@ -14,12 +14,12 @@ using namespace Rcpp;
 NumericVector Cfx (NumericVector x, NumericVector data, int K, int m) {
   int J = x.length(); 
   int n = data.length();
-  double h = (max(data) - min(data)) / K;
-  double eps = h;
-  double c1, c2, c3, c4, c5;
+  float h = (max(data) - min(data)) / K;
+  float eps = h;
+  float c1, c2, c3, c4, c5;
   NumericVector ret(J);
   for (int j = 0; j < J; j++){
-    double sum = 0.0;
+    float sum = 0.0;
     for (int i = 0; i < n; i++) {
       for (int k = 1; k < (K * m); k++) {
         for (int l = (1 - m); l < (m - 1); l++) {
