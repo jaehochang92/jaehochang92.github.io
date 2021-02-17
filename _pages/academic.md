@@ -11,6 +11,7 @@ author_profile: true
 
 ## <a href='https://jaehochang92.github.io/_pages/academic/bayesab.html' target='_blank'> Bayesian AB testing</a>
 
-## Miscellaneous
-1. <a href="https://cjhsfl.shinyapps.io/OrderMe" target='_blank'>OrderMe.io</a>
-2. <a href="https://jaehochang92.github.io/_pages/academic/gg.html" target='_blank'>ggplot2 examples</a>
+## Projects
+1. <a href='mdr' target='_blank'>Predicting the multi-drug resistant super bacteria infection</a>
+2. <a href="https://cjhsfl.shinyapps.io/OrderMe" target='_blank'>OrderMe.io</a>
+3. <a href="https://jaehochang92.github.io/_pages/academic/gg.html" target='_blank'>ggplot2 examples</a>
