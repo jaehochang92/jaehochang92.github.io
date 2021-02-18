@@ -149,7 +149,11 @@ author_profile: true
     Open your browser console to see pyodide output
     <script type="text/javascript">
         languagePluginLoader.then(function () {
-            console.log(pyodide.runPython(`from main import main`));
+            console.log(pyodide.runPython(`
+            import os
+            os.chdir('_pages/gcm/')
+            from main import main
+            `));
         });
     </script>
 </body>
