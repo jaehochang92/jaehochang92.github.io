@@ -150,9 +150,9 @@ author_profile: true
     <script type="text/javascript">
         languagePluginLoader.then(function () {
             console.log(pyodide.runPython(`
-            import os
-            os.chdir('_pages/gcm/')
-            from main import main
+            import os;
+            os.chdir('_pages/gcm/');
+            from main import main;
             `));
         });
     </script>
