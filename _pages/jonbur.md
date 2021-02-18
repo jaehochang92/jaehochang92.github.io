@@ -9,7 +9,7 @@ author_profile: true
 > <a href="https://forum.thegradcafe.com/forum/48-mathematics-and-statistics" target="_blank">FORUM</a>\
 <a href="https://www.thegradcafe.com/survey/index.php" target="_blank">RESULTS</a>
 
-><a href='https://www.thegradcafe.com/survey/index.php?q=statistics' target='_blank'><span style="color:green">Statistics</span></a>\
+> <a href='https://www.thegradcafe.com/survey/index.php?q=statistics' target='_blank'><span style="color:green">Statistics</span></a>\
 <a href='https://www.thegradcafe.com/survey/index.php?q=biostatistics' target='_blank'><span style="color:skyblue">Biostatistics</span></a>
 
 School|Program|Result
@@ -35,4 +35,4 @@ Emory University|Biostatistics|Pending
 ~~University of California, LA~~|~~Biostatistics~~|<span style="color:red">Rejected</span>
 ~~Penn State University~~|~~Statistics~~|<span style="color:red">Rejected</span>
 
-<iframe href='https://jaehochang92.github.io/_pages/gradcafe-monitor/disp.md'>
+<iframe src='https://jaehochang92.github.io/_pages/gradcafe-monitor/disp.md' title="Are you ready to jonbur??"></iframe>
