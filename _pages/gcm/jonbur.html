@@ -5,14 +5,6 @@ permalink: /jb/
 author_profile: true
 ---
 
-<head>
-    <script type="text/javascript">
-        // set the pyodide files URL (packages.json, pyodide.asm.data etc)
-        window.languagePluginUrl = 'https://cdn.jsdelivr.net/pyodide/v0.16.1/full/';
-    </script>
-    <script src="https://cdn.jsdelivr.net/pyodide/v0.16.1/full/pyodide.js"></script>
-</head>
-
 <body>
     <h3 id="fingers-crossed">Fingers crossed!</h3>
     <blockquote>
@@ -145,14 +137,15 @@ author_profile: true
             </tr>
         </tbody>
     </table>
-
-    <script type="text/javascript">
-        languagePluginLoader.then(() => {
-            return pyodide.loadPackage(['pandas', 'numpy', 'micropip'])
-        }).then(() => {
-            pyodide.runPython(`
-            # my beautiful code
-            `);
-        })
-    </script>
+    <style>
+        embed {
+            filter: invert(100%);
+        }
+    </style>
+    <embed type="text/html" src='https://www.thegradcafe.com/survey/index.php?q=duke+biostat*&t=a&o=&pp=10' width="50%"
+        height="100%">
+    <embed type="text/html" src='https://www.thegradcafe.com/survey/index.php?q=statistics&t=a&o=&pp=100' width="50%"
+        height="100%">
+    <embed type="text/html" src='https://www.thegradcafe.com/survey/index.php?q=biostat*&t=a&o=&pp=100' width="50%"
+        height="100%">
 </body>
