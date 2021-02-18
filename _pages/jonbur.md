@@ -35,4 +35,4 @@ Emory University|Biostatistics|Pending
 ~~University of California, LA~~|~~Biostatistics~~|<span style="color:red">Rejected</span>
 ~~Penn State University~~|~~Statistics~~|<span style="color:red">Rejected</span>
 
-<iframe src='https://jaehochang92.github.io/_pages/gradcafe-monitor/disp.md' title="Are you ready to jonbur??" width='600'></iframe>
+<?PHP echo shell_exec("python gradcafe-monitor/main.py");?>
