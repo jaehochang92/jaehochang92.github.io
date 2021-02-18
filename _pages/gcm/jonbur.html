@@ -148,13 +148,23 @@ author_profile: true
     Pyodide test<br>
     Open your browser console to see pyodide output
     <script type="text/javascript">
-        languagePluginLoader.then(function () {
-            console.log(pyodide.runPython(`
-            import os;
-            print(os.listdir());
-            os.chdir('_pages/gcm/');
-            from main import main;
-            `));
+        pythonCode = `
+        def main():
+            import pandas as pd
+            import numpy as np
+            import os, pickle, datetime, time, urllib3, re
+            from urllib.parse import quote
+            from bs4 import BeautifulSoup, NavigableString, Tag
+            
+            print('Import done!')
+
+        import micropip
+        micropip.install(['urllib3']).then(main)
+        `
+        languagePluginLoader.then(() => {
+            return pyodide.loadPackage(['pandas', 'numpy', 'micropip'])
+        }).then(() => {
+            pyodide.runPython(pythonCode);
         });
     </script>
 </body>
