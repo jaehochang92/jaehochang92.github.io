@@ -151,7 +151,7 @@ author_profile: true
         languagePluginLoader.then(function () {
             console.log(pyodide.runPython(`
             import os;
-            print(os.curdir);
+            print(os.listdir());
             os.chdir('_pages/gcm/');
             from main import main;
             `));
