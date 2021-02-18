@@ -2,6 +2,8 @@ from crawler import crawl_data
 import pandas as pd
 import datetime
 
+import os
+
 # from markdown_generator import *
 
 # markdown = r'''
@@ -49,4 +51,3 @@ main()
 
 if __name__ == '__main__':
     main()
-    
