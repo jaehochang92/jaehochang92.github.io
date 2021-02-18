@@ -145,26 +145,14 @@ author_profile: true
             </tr>
         </tbody>
     </table>
-    Pyodide test<br>
-    Open your browser console to see pyodide output
-    <script type="text/javascript">
-        pythonCode = `
-        def main():
-            import pandas as pd
-            import numpy as np
-            import os, pickle, datetime, time, urllib3, re
-            from urllib.parse import quote
-            from bs4 import BeautifulSoup, NavigableString, Tag
-            
-            print('Import done!')
 
-        import micropip
-        micropip.install(['urllib3']).then(main)
-        `
+    <script type="text/javascript">
         languagePluginLoader.then(() => {
             return pyodide.loadPackage(['pandas', 'numpy', 'micropip'])
         }).then(() => {
-            pyodide.runPython(pythonCode);
-        });
+            pyodide.runPython(`
+            # my beautiful code
+            `);
+        })
     </script>
 </body>
