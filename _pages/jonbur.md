@@ -34,3 +34,4 @@ Emory University|Biostatistics|Pending
 ~~Purdue University~~|~~Statistics~~|<span style="color:red">Rejected</span>
 ~~University of California, LA~~|~~Biostatistics~~|<span style="color:red">Rejected</span>
 ~~Penn State University~~|~~Statistics~~|<span style="color:red">Rejected</span>
+
