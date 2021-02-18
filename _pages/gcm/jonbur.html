@@ -150,8 +150,10 @@ author_profile: true
     <script type="text/javascript">
         languagePluginLoader.then(function () {
             console.log(pyodide.runPython(`
-            from gcm.main import main
+            from main import main
             `));
         });
     </script>
+    main()
+    print('Success!')
 </body>

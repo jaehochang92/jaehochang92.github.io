@@ -45,6 +45,8 @@ def main():
         f.writelines(md)
     return md
 
+main()
+
 if __name__ == '__main__':
     main()
     
