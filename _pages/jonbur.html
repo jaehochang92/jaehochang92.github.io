@@ -136,4 +136,8 @@ author_profile: true
         </tr>
     </tbody>
 </table>
-<?PHP echo shell_exec(“python gradcafe-monitor/main.py”);?>
+<?php 
+$command = escapeshellcmd('gradcafe-monitor/main.py');
+$output = shell_exec($command);
+echo $output;
+?>
