@@ -5,139 +5,155 @@ permalink: /jb/
 author_profile: true
 ---
 
+<head>
+    <script type="text/javascript">
+        // set the pyodide files URL (packages.json, pyodide.asm.data etc)
+        window.languagePluginUrl = 'https://cdn.jsdelivr.net/pyodide/v0.16.1/full/';
+    </script>
+    <script src="https://cdn.jsdelivr.net/pyodide/v0.16.1/full/pyodide.js"></script>
+</head>
 
-<h3 id="fingers-crossed">Fingers crossed!</h3>
-<blockquote>
-    <p><a href="https://forum.thegradcafe.com/forum/48-mathematics-and-statistics" target="_blank">FORUM</a><br> <a
-            href="https://www.thegradcafe.com/survey/index.php" target="_blank">RESULTS</a></p>
-</blockquote>
-<blockquote>
-    <p><a href="https://www.thegradcafe.com/survey/index.php?q=statistics" target="_blank"><span
-                style="color:green">Statistics</span></a><br> <a
-            href="https://www.thegradcafe.com/survey/index.php?q=biostatistics" target="_blank"><span
-                style="color:skyblue">Biostatistics</span></a></p>
-</blockquote>
-<table>
-    <thead>
-        <tr>
-            <th>School</th>
-            <th>Program</th>
-            <th>Result</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>University of South Carolina</td>
-            <td>Statistics</td>
-            <td><span style="color:green">Accepted</span></td>
-        </tr>
-        <tr>
-            <td>Seoul National University</td>
-            <td>Data Science</td>
-            <td><span style="color:green">Accepted</span></td>
-        </tr>
-        <tr>
-            <td><a href="https://applygp.duke.edu/apply/?sr=cef36fc0-412c-43f4-b99d-b9999b35b33b" target="_blank">Duke
-                    University</a></td>
-            <td>Biostatistics</td>
-            <td><span style="color:yellow">Interviewed</span></td>
-        </tr>
-        <tr>
-            <td><a href="https://inetapps.nus.edu.sg/GDA2/Home.aspx" target="_blank">National University of
-                    Singapore</a></td>
-            <td>Statistics</td>
-            <td>Pending</td>
-        </tr>
-        <tr>
-            <td><a href="https://appstatus.as.pitt.edu/" target="_blank">University of Pittsburgh</a></td>
-            <td>Statistics</td>
-            <td>Pending</td>
-        </tr>
-        <tr>
-            <td><a href="https://gradadmissions.colostate.edu/apply/" target="_blank">Colorado State University</a>
-            </td>
-            <td>Statistics</td>
-            <td>Pending</td>
-        </tr>
-        <tr>
-            <td><a href="https://myui.uiowa.edu/my-ui/home.page" target="_blank">University of Iowa</a></td>
-            <td>Statistics</td>
-            <td>Pending</td>
-        </tr>
-        <tr>
-            <td><a href="http://appstatus.osu.edu/" target="_blank">Ohio State University</a></td>
-            <td>Statistics</td>
-            <td>Pending</td>
-        </tr>
-        <tr>
-            <td><a href="https://gradadmissions.rice.edu/apply/?sr=76eb18ca-4404-4aa4-ac40-ac38e69df57c"
-                    target="_blank">Rice University</a></td>
-            <td>Statistics</td>
-            <td>Pending</td>
-        </tr>
-        <tr>
-            <td><a href="https://admissions.msu.edu/gradportal/" target="_blank">Michigan State University</a></td>
-            <td>Statistics</td>
-            <td>Pending</td>
-        </tr>
-        <tr>
-            <td><a href="https://gradsis.ucr.edu/gradsis/GSIS_LOGIN.Login_student" target="_blank">University of
-                    California, Riverside</a></td>
-            <td>Statistics</td>
-            <td>Pending</td>
-        </tr>
-        <tr>
-            <td><a href="https://apply.grad.ucdavis.edu/apply/" target="_blank">University of California, Davis</a>
-            </td>
-            <td>Statistics</td>
-            <td>Pending</td>
-        </tr>
-        <tr>
-            <td><a href="https://www.graddiv.ucsb.edu/eapp/Login.aspx" target="_blank">University of California,
-                    Santa Barbara</a></td>
-            <td>Statistics</td>
-            <td>Pending</td>
-        </tr>
-        <tr>
-            <td><a href="https://my.admissions.ufl.edu/?e=jaehochang%40konkuk.ac.kr" target="_blank">University of
-                    Florida</a></td>
-            <td>Biostatistics</td>
-            <td>Pending</td>
-        </tr>
-        <tr>
-            <td>Emory University</td>
-            <td>Biostatistics</td>
-            <td>Pending</td>
-        </tr>
-        <tr>
-            <td><a href="https://applynow.unc.edu/apply/" target="_blank">University of NC, Chapel Hill</a></td>
-            <td>Biostatistics</td>
-            <td>Pending</td>
-        </tr>
-        <tr>
-            <td><del>NC State University</del></td>
-            <td><del>Statistics</del></td>
-            <td><span style="color:red">Rejected</span></td>
-        </tr>
-        <tr>
-            <td><del>Purdue University</del></td>
-            <td><del>Statistics</del></td>
-            <td><span style="color:red">Rejected</span></td>
-        </tr>
-        <tr>
-            <td><del>University of California, LA</del></td>
-            <td><del>Biostatistics</del></td>
-            <td><span style="color:red">Rejected</span></td>
-        </tr>
-        <tr>
-            <td><del>Penn State University</del></td>
-            <td><del>Statistics</del></td>
-            <td><span style="color:red">Rejected</span></td>
-        </tr>
-    </tbody>
-</table>
-<?php 
-$command = escapeshellcmd('gradcafe-monitor/main.py');
-$output = shell_exec($command);
-echo $output;
-?>
+<body>
+    <h3 id="fingers-crossed">Fingers crossed!</h3>
+    <blockquote>
+        <p><a href="https://forum.thegradcafe.com/forum/48-mathematics-and-statistics" target="_blank">FORUM</a><br> <a
+                href="https://www.thegradcafe.com/survey/index.php" target="_blank">RESULTS</a></p>
+    </blockquote>
+    <blockquote>
+        <p><a href="https://www.thegradcafe.com/survey/index.php?q=statistics" target="_blank"><span
+                    style="color:green">Statistics</span></a><br> <a
+                href="https://www.thegradcafe.com/survey/index.php?q=biostatistics" target="_blank"><span
+                    style="color:skyblue">Biostatistics</span></a></p>
+    </blockquote>
+    <table>
+        <thead>
+            <tr>
+                <th>School</th>
+                <th>Program</th>
+                <th>Result</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>University of South Carolina</td>
+                <td>Statistics</td>
+                <td><span style="color:green">Accepted</span></td>
+            </tr>
+            <tr>
+                <td>Seoul National University</td>
+                <td>Data Science</td>
+                <td><span style="color:green">Accepted</span></td>
+            </tr>
+            <tr>
+                <td><a href="https://applygp.duke.edu/apply/?sr=cef36fc0-412c-43f4-b99d-b9999b35b33b"
+                        target="_blank">Duke
+                        University</a></td>
+                <td>Biostatistics</td>
+                <td><span style="color:yellow">Interviewed</span></td>
+            </tr>
+            <tr>
+                <td><a href="https://inetapps.nus.edu.sg/GDA2/Home.aspx" target="_blank">National University of
+                        Singapore</a></td>
+                <td>Statistics</td>
+                <td>Pending</td>
+            </tr>
+            <tr>
+                <td><a href="https://appstatus.as.pitt.edu/" target="_blank">University of Pittsburgh</a></td>
+                <td>Statistics</td>
+                <td>Pending</td>
+            </tr>
+            <tr>
+                <td><a href="https://gradadmissions.colostate.edu/apply/" target="_blank">Colorado State University</a>
+                </td>
+                <td>Statistics</td>
+                <td>Pending</td>
+            </tr>
+            <tr>
+                <td><a href="https://myui.uiowa.edu/my-ui/home.page" target="_blank">University of Iowa</a></td>
+                <td>Statistics</td>
+                <td>Pending</td>
+            </tr>
+            <tr>
+                <td><a href="http://appstatus.osu.edu/" target="_blank">Ohio State University</a></td>
+                <td>Statistics</td>
+                <td>Pending</td>
+            </tr>
+            <tr>
+                <td><a href="https://gradadmissions.rice.edu/apply/?sr=76eb18ca-4404-4aa4-ac40-ac38e69df57c"
+                        target="_blank">Rice University</a></td>
+                <td>Statistics</td>
+                <td>Pending</td>
+            </tr>
+            <tr>
+                <td><a href="https://admissions.msu.edu/gradportal/" target="_blank">Michigan State University</a></td>
+                <td>Statistics</td>
+                <td>Pending</td>
+            </tr>
+            <tr>
+                <td><a href="https://gradsis.ucr.edu/gradsis/GSIS_LOGIN.Login_student" target="_blank">University of
+                        California, Riverside</a></td>
+                <td>Statistics</td>
+                <td>Pending</td>
+            </tr>
+            <tr>
+                <td><a href="https://apply.grad.ucdavis.edu/apply/" target="_blank">University of California, Davis</a>
+                </td>
+                <td>Statistics</td>
+                <td>Pending</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.graddiv.ucsb.edu/eapp/Login.aspx" target="_blank">University of California,
+                        Santa Barbara</a></td>
+                <td>Statistics</td>
+                <td>Pending</td>
+            </tr>
+            <tr>
+                <td><a href="https://my.admissions.ufl.edu/?e=jaehochang%40konkuk.ac.kr" target="_blank">University of
+                        Florida</a></td>
+                <td>Biostatistics</td>
+                <td>Pending</td>
+            </tr>
+            <tr>
+                <td>Emory University</td>
+                <td>Biostatistics</td>
+                <td>Pending</td>
+            </tr>
+            <tr>
+                <td><a href="https://applynow.unc.edu/apply/" target="_blank">University of NC, Chapel Hill</a></td>
+                <td>Biostatistics</td>
+                <td>Pending</td>
+            </tr>
+            <tr>
+                <td><del>NC State University</del></td>
+                <td><del>Statistics</del></td>
+                <td><span style="color:red">Rejected</span></td>
+            </tr>
+            <tr>
+                <td><del>Purdue University</del></td>
+                <td><del>Statistics</del></td>
+                <td><span style="color:red">Rejected</span></td>
+            </tr>
+            <tr>
+                <td><del>University of California, LA</del></td>
+                <td><del>Biostatistics</del></td>
+                <td><span style="color:red">Rejected</span></td>
+            </tr>
+            <tr>
+                <td><del>Penn State University</del></td>
+                <td><del>Statistics</del></td>
+                <td><span style="color:red">Rejected</span></td>
+            </tr>
+        </tbody>
+    </table>
+    Pyodide test<br>
+    Open your browser console to see pyodide output
+    <script type="text/javascript">
+        languagePluginLoader.then(function () {
+            console.log(pyodide.runPython(`
+            from gcm.main import main
+            main()
+            print('Success!')
+            `));
+        });
+    </script>
+</body>
