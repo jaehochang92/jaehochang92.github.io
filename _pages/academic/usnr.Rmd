@@ -1,0 +1,34 @@
+---
+title: "US News Rankings"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r echo=F}
+library(dplyr, verbose = F)
+library(stringr, verbose = F)
+df = read.csv('usnr.csv')
+```
+
+## Statistics
+
+```{r echo=T}
+df2 <- df %>% filter(str_detect(University, 'Statistic')) %>% 
+arrange(Rank) %>% 
+mutate(Rank2 = rank(Rank, ties.method = 'min')) %>%
+select(-X)
+knitr::kable(df2)
+```
+
+## Biostatistics
+
+```{r echo=T}
+df2 <- df %>% filter(str_detect(University, 'Bio.+|Epi.+|Health')) %>% 
+arrange(Rank) %>% 
+mutate(Rank2 = rank(Rank, ties.method = 'min')) %>%
+select(-X)
+knitr::kable(df2)
+```
