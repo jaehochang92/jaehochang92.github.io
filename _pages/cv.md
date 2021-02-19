@@ -10,7 +10,7 @@ __M.A. in Applied Statistics, Mar 2018 -- Feb 2020, Konkuk University, Seoul, So
 * Co-advisor: Dr. Sunghoon Kwon
 
 __B.A. in Applied Statistics, Mar 2012 -- Feb 2018, Konkuk University, Seoul, South Korea__
-* WES credential report: 3.75 / 4.00 (in US GPA)
+* WES credential report: 3.75 in US GPA
 * Served in Republic of Korea Army from Feb 2014 to Nov 2015
 
 ## Academic Awards
