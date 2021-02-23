@@ -49,9 +49,9 @@ if __name__ == '__main__':
         if args.degree:
             dgr = degree_dict[args.degree]
             query += f'+{dgr}'
-            df = df[[dgr in i for i in df.과정]]
+            df = df[[dgr in i for i in df.prgrm]]
             if '*' in dgr:
-                df = df.drop(columns='과정')
+                df = df.drop(columns='prgrm')
 
         with open(query + '.html', 'w') as html_file:
             tz = pytz.timezone('US/Eastern')
