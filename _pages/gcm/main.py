@@ -23,7 +23,7 @@ if __name__ == '__main__':
     degree_dict = {'phd': 'PhD', 'mas': 'Master'}
     
     # parsing url
-    with urlopen(f'https://www.thegradcafe.com/survey/index.php?q={query}&t=a&o=&pp=50') as response:
+    with urlopen(f'https://www.thegradcafe.com/survey/index.php?q={query}&t=a&o=&pp=100') as response:
         html = response.read().decode()
     submissions = re.compile(
         '<table class="submission-table">(.*?)</table>', re.DOTALL).findall(html)[0]
