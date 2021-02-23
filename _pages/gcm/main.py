@@ -36,6 +36,4 @@ cmnt = re.findall('<li>(.*?)</li>', submissions)
 if len(inst) == len(prgm) == len(stus) == len(dgre) == len(sdte) == len(cmnt):
     col_names=['학교', '과정', '결과', 'via', 'on', '출신', '게시날짜', '코멘트']
     rows = [(j, prgm[i], *stus[i], dgre[i], sdte[i], cmnt[i]) for i, j in enumerate(inst)]
-    print(col_names)
-    print(rows)
     
