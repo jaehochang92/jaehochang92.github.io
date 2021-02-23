@@ -48,9 +48,10 @@ if __name__ == '__main__':
         if args.degree:
             dgr = degree_dict[args.degree]
             query += f'+{dgr}'
-            df = df[[dgr in i for i in df.과정]]
+            df = df[[dgr in i for i in df.과정]].drop('과정')
+            df.
 
         with open(query + '.html', 'w') as html_file:
-            html_file.writelines(f'---\npermalink: /gcm/{query}\ntitle: "Gradcafe monitor"\nauthor_profile: false\n---\n' +
-                                 f'update time: {datetime.now().strftime("%Y-%m-%d %I:%M %p")}\n' +
-                                 df.to_html())
+            html_file.writelines(f'---\npermalink: /gcm/{query}\ntitle: "Gradcafe monitor: {query}"\nauthor_profile: false\n---\n' +
+                                 f'update time: {datetime.now().strftime("%Y-%m-%d %I:%M %p")}<br>\n' +
+                                 df.to_html(index=False))
