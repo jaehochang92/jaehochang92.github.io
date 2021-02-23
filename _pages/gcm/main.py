@@ -9,6 +9,7 @@ parser.add_argument('-p', '--program')
 parser.add_argument('-d', '--degree', choices=['phd', 'mas'])
 args = parser.parse_args()
 
+# parsing query
 query = ''
 if args.institution:
     query += '+' if query else ''
@@ -16,12 +17,11 @@ if args.institution:
 if args.program:
     query += '+' if query else ''
     query += args.program
-print(query)
 degree_dict = {'phd':'PhD', 'mas':'Master'}
 if args.degree:
     dgr = degree_dict[args.degree]
-print(dgr)
 
+# parsing url
 with urlopen(f'https://www.thegradcafe.com/survey/index.php?q={query}&t=a&o=&pp=250') as response:
     html = response.read().decode()
 submissions = re.compile('<table class="submission-table">(.*?)</table>', re.DOTALL).findall(html)[0]
@@ -38,3 +38,4 @@ if len(inst) == len(prgm) == len(stus) == len(dgre) == len(sdte) == len(cmnt):
     rows = [(j, prgm[i], *stus[i], dgre[i], sdte[i], cmnt[i]) for i, j in enumerate(inst)]
     print(col_names)
     print(rows)
+    
