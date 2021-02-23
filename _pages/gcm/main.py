@@ -53,7 +53,7 @@ if __name__ == '__main__':
         with open(query + '.html', 'w') as html_file:
             html_file.writelines('---\n'
                                  'layout: archive\n'
-                                 f'permalink: /gcm/{query}\n'
+                                 f'permalink: /pa/{query}\n'
                                  f'title: "Gradcafe monitor: {query}"\nauthor_profile: true\n'
                                  '---\n'
                                  f'update time: {datetime.now().strftime("%Y-%m-%d %I:%M %p")}\n<br>\n<br>\n' +
