@@ -50,7 +50,7 @@ if __name__ == '__main__':
             dgr = degree_dict[args.degree]
             df = df[[dgr in i for i in df.과정]]
         
-        with open(fname, 'a') as html_file:
+        with open(fname, 'w') as html_file:
             html_file.writelines(f'''---
             permalink: /gcm/{query}
             title: "Gradcafe monitor"
