@@ -55,6 +55,6 @@ if __name__ == '__main__':
                                  'layout: archive\n'
                                  f'permalink: /gcm/{query}\n'
                                  f'title: "Gradcafe monitor: {query}"\nauthor_profile: true\n'
-                                 '---\n' +
+                                 '---\n'
                                  f'update time: {datetime.now().strftime("%Y-%m-%d %I:%M %p")}\n<br>\n<br>\n' +
                                  df.to_html(index=False).replace('<table border="1" class="dataframe">', '<table>'))
