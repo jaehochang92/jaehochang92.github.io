@@ -1,5 +1,6 @@
 from pprint import pprint
 from urllib.request import urlopen
+from datetime import datetime
 import re
 import argparse
 import pandas
@@ -21,7 +22,7 @@ if __name__ == '__main__':
         query += '+' if query else ''
         query += args.program
     degree_dict = {'phd': 'PhD', 'mas': 'Master'}
-    
+
     # parsing url
     with urlopen(f'https://www.thegradcafe.com/survey/index.php?q={query}&t=a&o=&pp=100') as response:
         html = response.read().decode()
@@ -42,7 +43,7 @@ if __name__ == '__main__':
         rows = [(j, prgm[i], *stus[i], dgre[i], sdte[i], cmnt[i][:100])
                 for i, j in enumerate(inst)]
         df = pandas.DataFrame(rows, columns=col_names)
-        
+
         # filtering
         if args.degree:
             dgr = degree_dict[args.degree]
@@ -50,4 +51,6 @@ if __name__ == '__main__':
             df = df[[dgr in i for i in df.과정]]
 
         with open(query + '.html', 'w') as html_file:
-            html_file.writelines(f'''---\npermalink: /gcm/{query}\ntitle: "Gradcafe monitor"\nauthor_profile: false\n---\n''' + df.to_html())
+            html_file.writelines(f'---\npermalink: /gcm/{query}\ntitle: "Gradcafe monitor"\nauthor_profile: false\n---\n' +
+                                 f'{update time: datetime.now().strftime("%d %b %Y %H:%M")}\n' +
+                                 df.to_html())
