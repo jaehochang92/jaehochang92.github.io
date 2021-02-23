@@ -51,6 +51,10 @@ if __name__ == '__main__':
             df = df[[dgr in i for i in df.과정]].drop(columns='과정')
 
         with open(query + '.html', 'w') as html_file:
-            html_file.writelines(f'---\npermalink: /gcm/{query}\ntitle: "Gradcafe monitor: {query}"\nauthor_profile: false\n---\n' +
+            html_file.writelines(f'---\n'
+                                 'layout: archive\n'
+                                 'permalink: /gcm/{query}\n'
+                                 'title: "Gradcafe monitor: {query}"\nauthor_profile: true\n'
+                                 '---\n' +
                                  f'update time: {datetime.now().strftime("%Y-%m-%d %I:%M %p")}\n<br>\n<br>\n' +
                                  df.to_html(index=False).replace('<table border="1" class="dataframe">', '<table>'))
