@@ -41,4 +41,11 @@ if len(inst) == len(prgm) == len(stus) == len(dgre) == len(sdte) == len(cmnt):
     rows = [(j, prgm[i], *stus[i], dgre[i], sdte[i], cmnt[i])
             for i, j in enumerate(inst)]
     df = pandas.DataFrame(rows, columns=col_names)
-    df.to_html(f'{query}-{dgr}' + '.html')
+    fname = f'{query}-{dgr}' + '.html'
+    df.to_html(fname)
+    with open(fname, 'a') as html_file:
+        html_file.writelines(f'''---
+permalink: /gcm/{query}
+title: "Gradcafe monitor"
+author_profile: false
+---''')
