@@ -52,5 +52,5 @@ if __name__ == '__main__':
 
         with open(query + '.html', 'w') as html_file:
             html_file.writelines(f'---\npermalink: /gcm/{query}\ntitle: "Gradcafe monitor"\nauthor_profile: false\n---\n' +
-                                 f'update time: {datetime.now().strftime("%d %b %Y %H:%M")}\n' +
+                                 f'update time: {datetime.now().strftime("%Y-%m-%d %I:%M %p")}\n' +
                                  df.to_html())
