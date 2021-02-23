@@ -55,7 +55,7 @@ if __name__ == '__main__':
 
         with open(query + '.html', 'w') as html_file:
             tz = pytz.timezone('US/Eastern')
-            time_stamp = datetime.now(tz).strftime("%Y-%m-%d %I:%M %p")
+            time_stamp = datetime.now(tz).strftime("%Y-%m-%d(%a) %I:%M %p")
             html_file.writelines('---\n'
                                  'layout: archive\n'
                                  f'permalink: /pa/{query}\n'
