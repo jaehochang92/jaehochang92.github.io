@@ -48,7 +48,8 @@ if __name__ == '__main__':
         if args.degree:
             dgr = degree_dict[args.degree]
             query += f'+{dgr}'
-            df = df[[dgr in i for i in df.과정]].drop(columns='과정')
+            if '*' in dgr:
+                df = df[[dgr in i for i in df.과정]].drop(columns='과정')
 
         with open(query + '.html', 'w') as html_file:
             html_file.writelines('---\n'
