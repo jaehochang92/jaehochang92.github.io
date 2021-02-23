@@ -5,9 +5,9 @@ import argparse
 import pandas
 
 parser = argparse.ArgumentParser(description='Type your query.')
+parser.add_argument('degree', choices=['phd', 'mas'])
 parser.add_argument('-i', '--institution')
 parser.add_argument('-p', '--program')
-parser.add_argument('-d', '--degree', choices=['phd', 'mas'])
 args = parser.parse_args()
 
 
@@ -42,13 +42,14 @@ if __name__ == '__main__':
         rows = [(j, prgm[i], *stus[i], dgre[i], sdte[i], cmnt[i])
                 for i, j in enumerate(inst)]
         df = pandas.DataFrame(rows, columns=col_names)
-        
+        fname = query + '.html'
+
         # filtering
         if args.degree:
+            fname = fname + f'+{dgr}.html'
             dgr = degree_dict[args.degree]
             df = df[[dgr in i for i in df.과정]]
         
-        fname = f'{query}-{dgr}' + '.html'
         with open(fname, 'a') as html_file:
             html_file.writelines(f'''---
             permalink: /gcm/{query}
