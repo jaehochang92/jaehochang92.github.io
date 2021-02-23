@@ -60,7 +60,7 @@
 				<dict>
 					<key>COMMAND_STRING</key>
 					<string>cd /Users/jangjaeho/jae-github/jaehochang92.github.io/_pages/gcm
-/usr/local/Caskroom/miniconda/base/bin/python3 main.py phd -p biostatistics 
+/usr/local/Caskroom/miniconda/base/bin/python3 main.py phd -p biostatistics
 /usr/local/Caskroom/miniconda/base/bin/python3 main.py phd -p statistics
 git add .
 git commit -m 'gradcafe monitor update'

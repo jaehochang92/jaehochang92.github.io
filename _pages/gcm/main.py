@@ -42,17 +42,12 @@ if __name__ == '__main__':
         rows = [(j, prgm[i], *stus[i], dgre[i], sdte[i], cmnt[i])
                 for i, j in enumerate(inst)]
         df = pandas.DataFrame(rows, columns=col_names)
-        fname = query + '.html'
-
+        
         # filtering
         if args.degree:
-            fname = fname + f'+{dgr}.html'
             dgr = degree_dict[args.degree]
+            query += f'+{dgr}.html'
             df = df[[dgr in i for i in df.과정]]
-        
-        with open(fname, 'w') as html_file:
-            html_file.writelines(f'''---
-            permalink: /gcm/{query}
-            title: "Gradcafe monitor"
-            author_profile: false
-            ---''' + df.to_html())
+
+        with open(query, 'w') as html_file:
+            html_file.writelines(f'''---\npermalink: /gcm/{query}\ntitle: "Gradcafe monitor"\nauthor_profile: false\n---\n''' + df.to_html())
