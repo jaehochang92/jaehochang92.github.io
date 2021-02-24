@@ -41,7 +41,7 @@ if __name__ == '__main__':
 
     if len(inst) == len(prgm) == len(stus) == len(dgre) == len(sdte) == len(cmnt):
         col_names = ['inst', 'prgrm', 'res', 'via', 'on', 's', 'date', 'cmmnts']
-        rows = [(j, prgm[i], *stus[i], dgre[i], sdte[i], cmnt[i][:100])
+        rows = [(j, prgm[i], *stus[i], dgre[i], sdte[i], cmnt[i])
                 for i, j in enumerate(inst)]
         df = pandas.DataFrame(rows, columns=col_names)
 
