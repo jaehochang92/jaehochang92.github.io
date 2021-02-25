@@ -33,7 +33,9 @@ if __name__ == '__main__':
     submissions_phd = ''
     for line in submissions.split('\n'):
         if re.search('<td class="tcol2">.+PhD.+\((F[0-9]{2})\)</td>', line):
-            submissions_phd += line + '\n'
+            cmm = re.findall('<li>(.+)</li></ul></td></tr>', line)
+            submissions_phd += re.sub('<td class="tcol6">.+</td></tr>',
+                                      f'<td class="tcol6">{cmm[0] if cmm else ""}</td></tr>', line) + '\n'
 
     with open(query + '.html', 'w') as html_file:
         tz = pytz.timezone('US/Eastern')
