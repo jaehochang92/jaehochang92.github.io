@@ -28,7 +28,7 @@ if __name__ == '__main__':
     submissions = re.compile(
         '<table class="submission-table">(.*?)</table>', re.DOTALL).findall(html)[0]
     # submissions = re.sub('(\\n|\\t)', '', submissions)
-    inst = re.findall('instcol tcol1\">(.*?)</td>', submissions)
+    inst = re.findall('instcol tcol1">(.*?)</td>', submissions)
     prgm = re.findall('<td class="tcol2">(.*?)</td>', submissions)
     stus = re.findall('<td class="tcol3 (.*?)>(.*?)</td>', submissions)
     stus = [re.findall(
