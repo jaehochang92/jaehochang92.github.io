@@ -37,8 +37,9 @@ if __name__ == '__main__':
     sdte = re.findall('<td class="datecol tcol5">(.*?)</td>', submissions)
     cmnt = re.findall('<li>(.*?)</li>', submissions)
 
-    if len(inst) == len(prgm) == len(stus) == len(dgre) == len(sdte) == len(cmnt):
-        col_names = ['inst', 'prgrm', 'res', 'via', 'on', 's', 'date', 'cmmnts']
+    try:
+        col_names = ['inst', 'prgrm', 'res',
+                     'via', 'on', 's', 'date', 'cmmnts']
         rows = [(j, prgm[i], *stus[i], dgre[i], sdte[i], cmnt[i])
                 for i, j in enumerate(inst)]
         df = pandas.DataFrame(rows, columns=col_names)
@@ -61,3 +62,5 @@ if __name__ == '__main__':
                                  '---\n'
                                  f'updated in {tz} time: {time_stamp}\n<br>\n<br>\n' +
                                  df.to_html(index=False).replace('<table border="1" class="dataframe">', '<table>'))
+    except:
+        break
