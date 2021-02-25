@@ -17,11 +17,9 @@ if __name__ == '__main__':
     # parsing query
     query = ''
     if args.institution:
-        query += '+' if query else ''
-        query += args.institution
+        query += ('+' if query else '') + args.institution
     if args.program:
-        query += '+' if query else ''
-        query += args.program
+        query += ('+' if query else '') + args.program
     degree_dict = {'phd': 'PhD', 'mas': 'Master'}
 
     # parsing url
