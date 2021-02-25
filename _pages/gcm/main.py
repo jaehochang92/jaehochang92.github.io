@@ -20,14 +20,14 @@ if __name__ == '__main__':
         query += ('+' if query else '') + args.institution
     if args.program:
         query += ('+' if query else '') + args.program
-    degree_dict = {'phd': 'PhD', 'mas': 'Master'}
+    degree_dict = {'phd': 'PhD'}
 
     # parsing url
     with urlopen(f'https://www.thegradcafe.com/survey/index.php?q={query}&t=a&o=&pp=100') as response:
         html = response.read().decode()
     submissions = re.compile(
         '<table class="submission-table">(.*?)</table>', re.DOTALL).findall(html)[0]
-    submissions = re.sub('(\\n|\\t)', '', submissions)
+    # submissions = re.sub('(\\n|\\t)', '', submissions)
     inst = re.findall('instcol tcol1\">(.*?)</td>', submissions)
     prgm = re.findall('<td class="tcol2">(.*?)</td>', submissions)
     stus = re.findall('<td class="tcol3 (.*?)>(.*?)</td>', submissions)
