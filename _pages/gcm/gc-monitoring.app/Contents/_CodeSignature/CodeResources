@@ -899,10 +899,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			R/KyseaPss0Md6CJLmwLVLq0e+w=
+			Z8BS2aWRFbEMJpMCRre42Hn73w4=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"2328043f3d53e5efd0d9368f771246bcb6581074" or cdhash H"47f2b2b1e68fb2cd0c77a0892e6c0b54bab47bec"</string>
+			<string>cdhash H"24d42e80b3d4b6780df2a00b248a9c768e300de8" or cdhash H"67c052d9a59115b10c26930246b7b8d879fbdf0e"</string>
 		</dict>
 	</dict>
 	<key>rules</key>

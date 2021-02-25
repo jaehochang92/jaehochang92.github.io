@@ -8,7 +8,6 @@ import pandas
 
 
 parser = argparse.ArgumentParser(description='Type your query.')
-parser.add_argument('degree', choices='phd')
 parser.add_argument('-i', '--institution')
 parser.add_argument('-p', '--program')
 args = parser.parse_args()
@@ -25,42 +24,25 @@ if __name__ == '__main__':
     # parsing url
     with urlopen(f'https://www.thegradcafe.com/survey/index.php?q={query}&t=a&o=&pp=100') as response:
         html = response.read().decode()
+    header = '<table class="submission-table">' + re.compile(
+        '<table class="submission-table">(.*?)</thead>', re.DOTALL).findall(html)[0] + '</thead>'
     submissions = re.compile(
-        '<table class="submission-table">(.*?)</table>', re.DOTALL).findall(html)[0]
-    # submissions = re.sub('(\\n|\\t)', '', submissions)
-    inst = re.findall('instcol tcol1">(.*?)</td>', submissions)
-    prgm = re.findall('<td class="tcol2">(.*?)</td>', submissions)
-    stus = re.findall('<td class="tcol3 (.*?)>(.*?)</td>', submissions)
-    stus = [re.findall(
-        '(Accepted|Rejected|Other|Interview|Wait listed).+via (.+) on (.+[0-9]{4})', tuple[1])[0] for tuple in stus]
-    dgre = re.findall('<td class="tcol4">(.*?)</td>', submissions)
-    sdte = re.findall('<td class="datecol tcol5">(.*?)</td>', submissions)
-    cmnt = re.findall('<li>(.*?)</li>', submissions)
+        '</thead>(.*?)</table>', re.DOTALL).findall(html)[0]
 
-    try:
-        col_names = ['inst', 'prgrm', 'res',
-                     'via', 'on', 's', 'date', 'cmmnts']
-        rows = [(j, prgm[i], *stus[i], dgre[i], sdte[i], cmnt[i])
-                for i, j in enumerate(inst)]
-        df = pandas.DataFrame(rows, columns=col_names)
+    # selecting only phds
+    submissions_phd = ''
+    for line in submissions.split('\n'):
+        if re.search('<td class="tcol2">.+PhD.+\((F[0-9]{2})\)</td>', line):
+            submissions_phd += line + '\n'
 
-        # filtering
-        if args.degree:
-            dgr = degree_dict[args.degree]
-            query += f'+{dgr}'
-            df = df[[dgr in i for i in df.prgrm]]
-            if '*' in dgr:
-                df = df.drop(columns='prgrm')
-
-        with open(query + '.html', 'w') as html_file:
-            tz = pytz.timezone('US/Eastern')
-            time_stamp = datetime.now(tz).strftime("%Y-%m-%d(%a) %I:%M %p")
-            html_file.writelines('---\n'
-                                 'layout: archive\n'
-                                 f'permalink: /pa/{query}\n'
-                                 f'title: "Gradcafe monitor: {query}"\nauthor_profile: true\n'
-                                 '---\n'
-                                 f'updated in {tz} time: {time_stamp}\n<br>\n<br>\n' +
-                                 df.to_html(index=False).replace('<table border="1" class="dataframe">', '<table>'))
-    except:
-        print('Something went wrong!')
+    with open(query + '.html', 'w') as html_file:
+        tz = pytz.timezone('US/Eastern')
+        time_stamp = datetime.now(tz).strftime("%Y-%m-%d(%a) %I:%M %p")
+        html_file.writelines('---\n'
+                             'layout: archive\n'
+                             f'permalink: /pa/{query}\n'
+                             f'title: "Gradcafe monitor: {query}"\nauthor_profile: true\n'
+                             '---\n'
+                             f'updated in {tz} time: {time_stamp}\n<br>\n<br>\n' +
+                             header + submissions_phd + '</table>'
+                             )
