@@ -4,22 +4,20 @@ from datetime import datetime, tzinfo
 import pytz
 import re
 import argparse
-import pandas
 
 
 parser = argparse.ArgumentParser(description='Type your query.')
 parser.add_argument('-i', '--institution')
 parser.add_argument('-p', '--program')
-args = parser.parse_args()
 
 if __name__ == '__main__':
     # parsing query
+    args = parser.parse_args()
     query = ''
     if args.institution:
         query += ('+' if query else '') + args.institution
     if args.program:
         query += ('+' if query else '') + args.program
-    degree_dict = {'phd': 'PhD'}
 
     # parsing url
     with urlopen(f'https://www.thegradcafe.com/survey/index.php?q={query}&t=a&o=&pp=100') as response:
