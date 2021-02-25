@@ -8,7 +8,7 @@ import pandas
 
 
 parser = argparse.ArgumentParser(description='Type your query.')
-parser.add_argument('degree', choices=['phd', 'mas'])
+parser.add_argument('degree', choices='phd')
 parser.add_argument('-i', '--institution')
 parser.add_argument('-p', '--program')
 args = parser.parse_args()
