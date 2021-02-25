@@ -63,4 +63,4 @@ if __name__ == '__main__':
                                  f'updated in {tz} time: {time_stamp}\n<br>\n<br>\n' +
                                  df.to_html(index=False).replace('<table border="1" class="dataframe">', '<table>'))
     except:
-        break
+        print('Something went wrong!')
