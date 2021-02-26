@@ -15,9 +15,9 @@ author_profile: true
 3. <a href='https://cjhsfl.shinyapps.io/ProductKernel' target='_blank'>Product kernel implemented in R</a>
 4. <a href='https://jaehochang92.github.io/_pages/academic/nfefinal.html' target='_blank'>Final project report</a>
 
-## <a href='https://jaehochang92.github.io/_pages/academic/glm_det.pdf' target='_blank'>Coefficient of determination for GLMs</a>
-
-## <a href='https://jaehochang92.github.io/_pages/academic/bayesab.html' target='_blank'> Bayesian AB testing</a>
+## Presentations & lecture notes
+1. <a href='https://jaehochang92.github.io/_pages/academic/glm_det.pdf' target='_blank'>Coefficient of determination for GLMs</a>
+2. <a href='https://jaehochang92.github.io/_pages/academic/bayesab.html' target='_blank'> Bayesian AB testing</a>
 
 ## Miscellaneous
 1. <a href='mdr' target='_blank'>Building and API using Python Flask</a>
