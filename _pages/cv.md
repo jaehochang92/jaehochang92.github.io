@@ -26,4 +26,4 @@ __Domain-specific Languages__|HTML, SQL, Latex
 __Softwares__|Conda, PyCharm, docker, git, SPSS
 __Platforms__|AWS, GCP
 
-## <a href='https://www.linkedin.com/in/jaehochang92/?locale=en_US' target='_blank'>Experiences and publications(LinkedIn profile)</a>
+## <a href='https://www.linkedin.com/in/jaehochang92/?locale=en_US' target='_blank'>Experiences(LinkedIn profile)</a>
