@@ -5,9 +5,9 @@ author_profile: true
 ---
 
 ## Publications
-1. Chang J, Moon H, Kwon S. (2021). <a href='https://doi.org/10.29220/CSAM.2021.28.1.021' target='_blank'>High-dimensional linear discriminant analysis with moderately clipped LASSO</a>. CSAM 28:21-37.
-2. Lee H, Chang J, Kim G. (2020). <a href='https://10.30992/KPSR.2020.06.19.2.131' target='_blank'>A Study on the Conflict Structure of the Standing Committee through Topic Analysis of the National Assembly Minutes : Health and Welfare Committee in the First Half of the 20th National Assembly</a>. Korean Party Studies Review, 19(2), 131-167.
-3. Lee, S., Chang, J. & Kim, H. (2018) Ultimate sharpening of Jensen’s Inequality [manuscript submitted for publication]. Department of Applied Statistics, Konkuk University.
+1. Chang J, Moon H, Kwon S. (2021). <a href='https://doi.org/10.29220/CSAM.2021.28.1.021' target='_blank'>High-dimensional linear discriminant analysis with moderately clipped LASSO</a>. _Comunications for Statistical Applications and Methods_, 28:21-37.
+2. Lee H, Chang J, Kim G. (2020). <a href='https://10.30992/KPSR.2020.06.19.2.131' target='_blank'>A Study on the Conflict Structure of the Standing Committee through Topic Analysis of the National Assembly Minutes : Health and Welfare Committee in the First Half of the 20th National Assembly</a>. _Korean Party Studies Review_, 19(2), 131-167.
+3. Lee, S., Chang, J. & Kim, H. (2018) _Ultimate sharpening of Jensen’s Inequality_ [manuscript submitted for publication]. Department of Applied Statistics, Konkuk University.
 ## Nonparametric Function Estimation, Spring 2019, Konkuk University
 1. <a href='https://jaehochang92.github.io/_pages/academic/convolution.html' target='_blank'>Convolution of density functions</a>
 2. <a href='ash' target='_blank'>Average shifted histogram implemented in C++ and R</a>
