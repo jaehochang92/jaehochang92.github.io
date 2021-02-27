@@ -19,7 +19,10 @@ author_profile: true
 ## Future career goal
 
 * ultimate professional goal: scholar developing statistical methodologies
-* In the future: postdoc training in the public health sector & engage with other scientists in an interdisciplinary environment 
+* In the future: 
+  > postdoc training in the public health sector like other UI graduates
+
+  > engage with other scientists in an interdisciplinary environment 
 * work as a faculty and develop methodologies for the most complex human diseases
 
 ## Why us?
@@ -28,5 +31,5 @@ author_profile: true
 * broaden my academic experience and knowledge learning various subfields such as causal inference or ML for biomedicine
 * would like to work with:
   > Dr. Jian Huang - ‘variable selection in HD’ and versatile in biomedical applications
-  
+
   > Dr. Boxiang Wang - ‘sparse tensor regression’
