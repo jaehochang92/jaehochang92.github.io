@@ -1,6 +1,6 @@
 ---
 title: "Academic Works"
-permalink: /academic/mdr/
+permalink: /academic/api/
 author_profile: true
 ---
 
