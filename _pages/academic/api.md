@@ -4,7 +4,7 @@ permalink: /academic/api/
 author_profile: true
 ---
 
-## Building Flask API in Python
+## Building an API with Python Flask
 
 ```python
 import flask, json, csv
