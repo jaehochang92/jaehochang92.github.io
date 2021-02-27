@@ -11,9 +11,9 @@ I am a prospective Ph.D. student planning to study in the United States. I earne
 
 ## Background
 
-* I grew up taking typical education of South Korea but I have always had unique interests in mathematics, so I decided to study statistics at the university. My time in the university has shown me much wider benefits of statistics. For example, I was able to find risk factors for multi-drug resistant diseases caused by super bacteria. Also, I could decode seemingly chaotic conversations between politicians into a political conflict on national health and welfare topics.
+* I grew up taking typical education of South Korea but I have always had unique interests in mathematics, so I decided to study statistics at the university. My time in the university has shown me much wider benefits of statistics. For example, I was able to find risk factors for multi-drug resistant diseases that are caused by super bacteria. Also, I could decode seemingly chaotic conversations between politicians into a political conflict on national health and welfare topics.
 
-* After witnessing the potential of this type of works, I have been more interested in using statistical models on medical or biological data. Specifically, I found studying high dimensional modeling interesting, leading to authoring an application paper on high dimensional penalized least squares during my master's course.
+* After witnessing the potential of this type of works, I have been more interested in using statistical models on medical or biological data. Specifically, I found studying high dimensional variable selection interesting, leading to authoring an application paper on high dimensional penalized least squares during my master's course.
 
 ## Future career goal
 
