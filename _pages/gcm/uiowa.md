@@ -31,9 +31,4 @@ author_profile: true
 
 ## Why us?
 
-* BIOS or DS concentration area: the best fit for <span style="color:yellow">developing statistical models to practice applications 
-* broaden my academic experience and knowledge <span style="color:yellow">learning various subfields such as causal inference or ML for biomedicine
-* would like to work with:
-  > Dr. Jian Huang - ‘variable selection in HD’ and biomedical applications
-
-  > Dr. Boxiang Wang - ‘sparse tensor regression’
+to be filled...
