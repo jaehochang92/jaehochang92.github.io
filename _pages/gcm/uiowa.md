@@ -24,6 +24,10 @@ author_profile: true
 
   > engage with other scientists in <span style="color:yellow">interdisciplinary studies 
 * work as a faculty and develop methodologies for <span style="color:yellow">the most complex human diseases like cancer and alzheimer's
+* aspirational!
+  > education is an opportunity...
+  > *  and research experiences
+  > * extraordinary academic background
 
 ## Why us?
 
