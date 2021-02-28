@@ -32,7 +32,7 @@ author_profile: true
 
 * ultimate professional goal: scholar developing statistical methodologies
 * In the future: 
-  > . postdoc training in the <span style="color:yellow">public health sector\
+  > . postdoc training in the <span style="color:yellow">public health sector</span>\
   > . engage with other scientists in <span style="color:yellow">interdisciplinary studies 
 * work as a faculty and develop methodologies for <span style="color:yellow">the most complex human diseases like cancer and alzheimer's
 * aspirational!
