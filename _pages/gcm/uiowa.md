@@ -22,19 +22,18 @@ author_profile: true
   > * lasso\
 	> . great prediction accuracy\
 	> . fails to attain variable selection consistency under the violation of IC (Zhao & Yu, 2006)
-  > * MCL: ncpen so no IC
-  >	lasso + MCP\
-	> 2 tp: sparsity + concavity\
-	> found non-asymptotic conditions 4 OL ppt\
-	> demonstrated the good prediction & variable selection perf.
+  > * MCL: ncpen, so no IC\
+  >	. lasso + MCP\
+	> . 2 tp: sparsity + concavity\
+	> . found non-asymptotic conditions 4 OL ppt\
+	> . demonstrated the good prediction & variable selection perf.
 
 ## Future career goal
 
 * ultimate professional goal: scholar developing statistical methodologies
 * In the future: 
-  > postdoc training in the <span style="color:yellow">public health sector
-
-  > engage with other scientists in <span style="color:yellow">interdisciplinary studies 
+  > . postdoc training in the <span style="color:yellow">public health sector\
+  > . engage with other scientists in <span style="color:yellow">interdisciplinary studies 
 * work as a faculty and develop methodologies for <span style="color:yellow">the most complex human diseases like cancer and alzheimer's
 * aspirational!
   > I 1 2 study in ... which possesses
