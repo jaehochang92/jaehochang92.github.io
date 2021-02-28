@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "University of Iowa"
-permalink: /pa/uiowa
+title: "Good luck"
+permalink: /pa/interview
 author_profile: true
 ---
 
@@ -20,13 +20,13 @@ author_profile: true
 
 * ultimate professional goal: scholar developing statistical methodologies
 * In the future: 
-  > postdoc training in the <span style="color:yellow">public health sector like other UI graduates
+  > postdoc training in the <span style="color:yellow">public health sector
 
   > engage with other scientists in <span style="color:yellow">interdisciplinary studies 
 * work as a faculty and develop methodologies for <span style="color:yellow">the most complex human diseases like cancer and alzheimer's
 * aspirational!
-  > education is an opportunity...
-  > *  and research experiences
+  > I 1 2 study in ... which possesses
+  > * abundant research opportunities 4 students
   > * extraordinary academic background
 
 ## Why us?
