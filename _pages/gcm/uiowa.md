@@ -16,6 +16,18 @@ author_profile: true
 * after witnessing ... => interested in using statistical models on the <span style="color:yellow">biomedicine data 
 * high dimensional variable selection => author an application paper on high dimensional penalized least squares during my master's course
 
+  > conn btw LDA - LS\
+  > p > n\
+  > QM applied PLS on HD LDA with lasso penalty 2 induce sparsity in model selection
+  > * lasso\
+	> . great prediction accuracy\
+	> . fails to attain variable selection consistency under the violation of IC (Zhao & Yu, 2006)
+  > * MCL: ncpen so no IC
+  >	lasso + MCP\
+	> 2 tp: sparsity + concavity\
+	> found non-asymptotic conditions 4 OL ppt\
+	> demonstrated the good prediction & variable selection perf.
+
 ## Future career goal
 
 * ultimate professional goal: scholar developing statistical methodologies
