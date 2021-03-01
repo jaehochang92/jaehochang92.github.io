@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Good luck"
+title: "Be the Best of Yourself"
 permalink: /pa/interview
 author_profile: true
 ---
