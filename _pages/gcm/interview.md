@@ -42,4 +42,3 @@ author_profile: true
 
 ## Why us?
 
-to be filled...
