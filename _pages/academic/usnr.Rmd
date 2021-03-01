@@ -4,10 +4,10 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = F)
 ```
 
-```{r echo=F}
+```{r, include=FALSE, echo=F}
 library(dplyr, verbose = F)
 library(stringr, verbose = F)
 df = read.csv('usnr.csv')
@@ -15,20 +15,45 @@ df = read.csv('usnr.csv')
 
 ## Statistics
 
-```{r echo=T}
-df2 <- df %>% filter(str_detect(University, 'Statistic')) %>% 
-arrange(Rank) %>% 
-mutate(Rank2 = rank(Rank, ties.method = 'min')) %>%
-select(-X)
-knitr::kable(df2)
+```{r echo=F}
+df2 <- df %>% filter(str_detect(University, 'Statistic')) %>%
+  arrange(Rank) %>%
+  mutate(Stat.Rank = rank(Rank, ties.method = 'min')) %>%
+  select(-X) %>%
+  filter(
+    str_detect(
+      University,
+      'University of South Carolina|University of Iowa|University of Pittsburgh|Colorado State University|Ohio State University|Rice University|Michigan State University|Riverside|Davis|Santa Barbara|North Carolina State University|Purdue|Pennsylvania State University'
+    )
+  ) %>%
+  mutate(Results = ifelse(
+    str_detect(University, 'Penn|Purdue|North Carolina'),
+    'R',
+    ifelse(str_detect(University, 'Iowa|South Carolina'),
+           'A',
+           'P')
+  )) %>% arrange(Results, Rank)
+knitr::kable(df2,)
 ```
 
 ## Biostatistics
 
-```{r echo=T}
-df2 <- df %>% filter(str_detect(University, 'Bio.+|Epi.+|Health')) %>% 
-arrange(Rank) %>% 
-mutate(Rank2 = rank(Rank, ties.method = 'min')) %>%
-select(-X)
+```{r echo=F}
+df2 <-
+  df %>% filter(str_detect(University, 'Bio.+|Epi.+|Health')) %>%
+  arrange(Rank) %>%
+  mutate(Biostat.Rank = rank(Rank, ties.method = 'min')) %>%
+  select(-X) %>%
+  filter(str_detect(
+    University,
+    'University of Florida|Chapel|Los Angeles|Duke|Emory'
+  )) %>%
+  mutate(Results = ifelse(
+    str_detect(University, 'Chapel|Florida'),
+    'P',
+    ifelse(str_detect(University, 'Duke|Emory|Angeles'),
+           'R',
+           'A')
+  )) %>% arrange(Results, Rank)
 knitr::kable(df2)
 ```
