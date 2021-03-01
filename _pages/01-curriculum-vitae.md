@@ -19,6 +19,39 @@ __Poster awards, May 25, 2019, 2019 Spring Conference, Korean Statistical Societ
 
 ## Technical Strengths
 
-<table font-size="medium"><thead><tr><th>Category</th><th>Elements</th></tr></thead><tbody><tr><td><strong>Programming Languages</strong></td><td>bash, R, Python</td></tr><tr><td><strong>Domain-specific Languages</strong></td><td>HTML, SQL, Latex</td></tr><tr><td><strong>Softwares</strong></td><td>Conda, PyCharm, docker, git, SPSS</td></tr><tr><td><strong>Platforms</strong></td><td>AWS, GCP</td></tr></tbody></table>
+<table font-size="medium">
+	<thead>
+		<tr>
+			<th>Category</th>
+			<th>Elements</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><strong>Programming Languages</strong></td>
+			<td>
+                C, C++, bash, Python, R
+            </td>
+		</tr>
+		<tr>
+			<td><strong>Domain-specific Languages</strong></td>
+			<td>
+                HTML, CSS, Sass, SQL, Markdown, Latex
+            </td>
+		</tr>
+		<tr>
+			<td><strong>Softwares</strong></td>
+			<td>
+                SPSS, Gephi, R Studio, PyCharm, conda, Jekyll, git
+            </td>
+		</tr>
+		<tr>
+			<td><strong>Platforms</strong></td>
+			<td>
+                AWS Sagemaker, Google Cloud API, docker
+            </td>
+		</tr>
+	</tbody>
+</table>
 
 ## <a href='https://www.linkedin.com/in/jaehochang92/?locale=en_US' target='_blank'>Experiences(LinkedIn profile)</a>
