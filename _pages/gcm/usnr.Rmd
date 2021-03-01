@@ -1,9 +1,20 @@
 ---
 title: "US News Rankings"
-output: 
-  html_document:
-    sass: '../../main.scss'
+output: html_document
 ---
+
+```{css, echo=F}
+body {
+  background-color: #2e2e2e;
+  color: bisque;
+}
+@media screen and (prefers-color-scheme: light) {
+  body {
+    background-color: white;
+    color: black;
+  }
+}
+```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = F)
