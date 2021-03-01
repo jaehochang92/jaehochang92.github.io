@@ -1,6 +1,8 @@
 ---
 title: "US News Rankings"
-output: html_document
+output: 
+  html_document:
+    sass: '../../main.scss'
 ---
 
 ```{r setup, include=FALSE}
