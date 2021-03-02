@@ -28,33 +28,37 @@ df = read.csv('usnr.csv')
 ```
 
 ```{r echo=F}
-df <- df %>% mutate(Dept. = ifelse(str_detect(University, 'Statistic'), 'Stat', 'Bstat/Info'),
-              .after = 2) %>%
+df <-
+  df %>% mutate(Dept. = ifelse(str_detect(University, 'Statistic'), 'Stat', 'Bstat/Info'),
+                .after = 2) %>%
   mutate(University = str_extract(University, '.+?(?= \\()')) %>%
   group_by(Dept.) %>%
   mutate(Dept.Rank = rank(Rank, ties.method = 'min')) %>%
   select(-X) %>% arrange(Rank, Dept.Rank) %>%
   mutate(Results = ifelse(
-    (str_detect(
-      University,
-      'Pennsylvania State|Purdue|North Carolina State'
-    ) & Dept. == 'Stat') | (str_detect(
-      University,
-      'Emory|Duke|Los Angeles'
-    ) & Dept. == 'Bstat/Info'),
-    'R',
+    (
+      str_detect(University,
+                 'Pennsylvania State|Purdue|North Carolina State') &
+        Dept. == 'Stat'
+    ) | (
+      str_detect(University,
+                 'Emory|Duke|Los Angeles') & Dept. == 'Bstat/Info'
+    ),
+    'Rej',
     ifelse(
       str_detect(University, 'of Iowa|South Carolina') & Dept. == 'Stat',
-      'A',
+      'Acc',
       ifelse(
-        (str_detect(
-          University,
-          'Davis|Ohio|Rice|Colorado State|Michigan State|Pitts.|Santa Barbara|Riverside'
-        ) & Dept. == 'Stat') | (str_detect(
-          University,
-          'Florida|Chapel'
-        ) & Dept. == 'Bstat/Info'),
-        'P',
+        (
+          str_detect(
+            University,
+            'Davis|Ohio|Rice|Colorado State|Michigan State|Pitts.|Santa Barbara|Riverside'
+          ) & Dept. == 'Stat'
+        ) | (
+          str_detect(University,
+                     'Florida|Chapel') & Dept. == 'Bstat/Info'
+        ),
+        'Pen',
         ''
       )
     )
