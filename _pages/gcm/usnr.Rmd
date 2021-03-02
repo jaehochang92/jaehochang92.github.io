@@ -56,7 +56,7 @@ df %>% filter(str_detect(University, 'Statistic')) %>%
 ```{r echo=F}
 df %>% filter(str_detect(University, 'Bio.+|Epi.+|Health')) %>%
   arrange(Rank) %>%
-  mutate(Stat.Rank = rank(Rank, ties.method = 'min')) %>%
+  mutate(Bstat.Rank = rank(Rank, ties.method = 'min')) %>%
   select(-X) %>%
   mutate(Results = ifelse(
     str_detect(University, 'Chapel|Florida'),
