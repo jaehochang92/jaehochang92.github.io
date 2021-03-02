@@ -26,13 +26,12 @@ library(stringr, verbose = F)
 df = read.csv('usnr.csv')
 ```
 
-## Statistics
-
 ```{r echo=F}
-df %>% filter(str_detect(University, 'Statistic')) %>%
-  arrange(Rank) %>%
-  mutate(Stat.Rank = rank(Rank, ties.method = 'min')) %>%
-  select(-X) %>%
+df %>% mutate(Dept. = ifelse(str_detect(University, 'Statistic'), 'Stat', 'Bstat/Info'),
+              .after = 2) %>%
+  group_by(Dept.) %>%
+  mutate(Dept.Rank = rank(Rank, ties.method = 'min')) %>%
+  select(-X) %>% arrange(Rank, Dept.Rank) %>%
   mutate(Results = ifelse(
     str_detect(University, 'Pennsylvania State|Purdue|North Carolina State'),
     'R',
@@ -48,21 +47,5 @@ df %>% filter(str_detect(University, 'Statistic')) %>%
         ''
       )
     )
-  )) %>% knitr::kable(.)
-```
-
-## Biostatistics
-
-```{r echo=F}
-df %>% filter(str_detect(University, 'Bio.+|Epi.+|Health')) %>%
-  arrange(Rank) %>%
-  mutate(Bstat.Rank = rank(Rank, ties.method = 'min')) %>%
-  select(-X) %>%
-  mutate(Results = ifelse(
-    str_detect(University, 'Chapel|Florida'),
-    'P',
-    ifelse(str_detect(University, 'Duke|Emory|Angeles'),
-           'R',
-           '')
   )) %>% knitr::kable(.)
 ```
