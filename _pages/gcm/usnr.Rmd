@@ -33,7 +33,7 @@ df %>% mutate(Dept. = ifelse(str_detect(University, 'Statistic'), 'Stat', 'Bstat
   mutate(Dept.Rank = rank(Rank, ties.method = 'min')) %>%
   select(-X) %>% arrange(Rank, Dept.Rank) %>%
   mutate(Results = ifelse(
-    str_detect(University, 'Pennsylvania State|Purdue|North Carolina State'),
+    str_detect(University, 'Pennsylvania State|Purdue|North Carolina State|Los Angeles|Duke|Emory'),
     'R',
     ifelse(
       str_detect(University, 'of Iowa|South Carolina'),
