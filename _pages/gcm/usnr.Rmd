@@ -7,6 +7,7 @@ output: html_document
 body {
   background-color: #2e2e2e;
   color: bisque;
+  font-family: Bitter;
 }
 @media screen and (prefers-color-scheme: light) {
   body {
@@ -27,25 +28,37 @@ df = read.csv('usnr.csv')
 ```
 
 ```{r echo=F}
-df %>% mutate(Dept. = ifelse(str_detect(University, 'Statistic'), 'Stat', 'Bstat/Info'),
+df <- df %>% mutate(Dept. = ifelse(str_detect(University, 'Statistic'), 'Stat', 'Bstat/Info'),
               .after = 2) %>%
+  mutate(University = str_extract(University, '.+?(?= \\()')) %>%
   group_by(Dept.) %>%
   mutate(Dept.Rank = rank(Rank, ties.method = 'min')) %>%
   select(-X) %>% arrange(Rank, Dept.Rank) %>%
   mutate(Results = ifelse(
-    str_detect(University, 'Pennsylvania State|Purdue|North Carolina State|Los Angeles|Duke|Emory'),
+    (str_detect(
+      University,
+      'Pennsylvania State|Purdue|North Carolina State'
+    ) & Dept. == 'Stat') | (str_detect(
+      University,
+      'Emory|Duke|Los Angeles'
+    ) & Dept. == 'Bstat/Info'),
     'R',
     ifelse(
-      str_detect(University, 'of Iowa|South Carolina'),
+      str_detect(University, 'of Iowa|South Carolina') & Dept. == 'Stat',
       'A',
       ifelse(
-        str_detect(
+        (str_detect(
           University,
           'Davis|Ohio|Rice|Colorado State|Michigan State|Pitts.|Santa Barbara|Riverside'
-        ),
+        ) & Dept. == 'Stat') | (str_detect(
+          University,
+          'Florida|Chapel'
+        ) & Dept. == 'Bstat/Info'),
         'P',
         ''
       )
     )
-  )) %>% knitr::kable(.)
+  ))
+knitr::kable(df)
+cat('Applied to', sum(df$Results != ''), 'programs')
 ```
