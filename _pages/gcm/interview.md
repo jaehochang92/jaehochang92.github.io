@@ -6,39 +6,45 @@ author_profile: true
 ---
 
 ## Background
-* typical education of South Korea 
-* unique interests in using mathematics to impact our lives
-* thorugh the research on university majors => statistics is a mathematical science that learns our world and nature from the data
+
+* unique interests in using math. to impact our lives
+* 🔬 on college majors => statistics is a math. science that learns our world and nature from the data
 * benefits: 
   > ... <span style="color:yellow">a political conflict on national health and welfare topics
 
-  > ... using GLMs and statistical learning
-* after witnessing ... => interested in using statistical models on the <span style="color:yellow">biomedicine data 
-* high dimensional variable selection => author an application paper on high dimensional penalized least squares during my master's course
+  > ... using GLMs and statistical learning algorithms(XGboosting, RF)
+* after witnessing ... => interested in using statistical models on the <span style="color:yellow">biomedical data 
+* HD var. sel. => an appl. paper on HD peanlized LS during my master's course
 
   > conn btw LDA - LS\
-  > p > n\
-  > QM applied PLS on HD LDA with lasso penalty 2 induce sparsity in model selection
+  > When p > n\
+  > Mai[^1] applied PLS on HD LDA with lasso penalty 2 induce sparsity in model selection
   > * lasso\
-	> . great prediction accuracy\
-	> . fails to attain variable selection consistency under the violation of IC (Zhao & Yu, 2006)
+	> . 👍 predct. accy.\
+	> . fails to attain var. sel. consistency under the violation of Irrep. Condition (Zhao & Yu, 2006)
   > * MCL: ncpen, so no IC\
   >	. lasso + MCP\
 	> . 2 tp: sparsity + concavity\
-	> . found non-asymptotic conditions 4 OL ppt\
-	> . demonstrated the good prediction & variable selection perf.
+	> . found non-asympt. conditions 4 OL ppt\
+	> . demonstrated the 👍 predct. & var. sel. consistency
 
 ## Future career goal
 
-* ultimate professional goal: scholar developing statistical methodologies
+* ultimate profss. goal: scholar developing statistical methodologies
 * In the future: 
   > . postdoc training in the <span style="color:yellow">public health sector</span>\
   > . engage with other scientists in <span style="color:yellow">interdisciplinary studies 
-* work as a faculty and develop methodologies for <span style="color:yellow">the most complex human diseases like cancer and alzheimer's
+* faculty: develops methodologies for <span style="color:yellow">the most complex human diseases like cancer, tumor, and alzheimer's
+
 * aspirational!
-  > I 1 2 study in ... which possesses
-  > * abundant research opportunities 4 students
-  > * extraordinary academic background
 
 ## Why us?
 
+I 1 2 study in ________ bc. it can provide me a firm academic education and background for my future career.
+
+rigorous training in probability
+  > necss. tool for demon. the good model-performance <span style="color:yellow">e.g. var. sel. consistency</span>\
+  > data cmplx. 🆙 rapidly =>  model cmplx.\
+  > ... essent. in understanding the asympt. behav. of stat. models
+
+[^1]: A direct approach to sparse discriminant analysis in ultra-high dimensions
