@@ -47,4 +47,7 @@ author_profile: true
   > . asympt. normality of estimator distributions\
   > * data cmplx. 🆙 rapidly => model cmplx. so 1 2 to learn prob. in depth.
 
+* \_\_\_\_\_\_ has many great professors who study biostatistics, statistical genetics, and high-dimensional data analysis which are close to my interests.\
+ㄴ <span style="color:yellow"> Yuying Xie, Haolei Weng, Yuehua Cui, Gustapo de los Campos
+
 [^1]: A direct approach to sparse discriminant analysis in ultra-high dimensions
