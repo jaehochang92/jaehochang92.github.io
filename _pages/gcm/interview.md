@@ -45,6 +45,6 @@ I 1 2 study in ________ bc. it can provide me a firm academic education and back
 rigorous training in probability
   > necss. tool for demon. the good model-performance <span style="color:yellow">e.g. var. sel. consistency</span>\
   > data cmplx. 🆙 rapidly =>  model cmplx.\
-  > ... essent. in understanding the asympt. behav. of stat. models
+  > ㄴ essent. in understanding the asympt. behav. of stat. models
 
 [^1]: A direct approach to sparse discriminant analysis in ultra-high dimensions
