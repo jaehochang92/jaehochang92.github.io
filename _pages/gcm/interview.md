@@ -40,11 +40,11 @@ author_profile: true
 
 ## Why us?
 
-I 1 2 study in ________ bc. it can provide me a firm academic education and background for my future career.
+I 1 2 study in \______ bc. \______ can provide me a firm academic education and background for my future career.
 
 rigorous training in probability
-  > necss. tool for demon. the good model-performance <span style="color:yellow">e.g. var. sel. consistency</span>\
-  > data cmplx. 🆙 rapidly =>  model cmplx.\
-  > ㄴ essent. in understanding the asympt. behav. of stat. models
+  > necss. tool for studying asympt. behav. of s. models.\
+  > ㄴ e.g.) show the var. sel. consistency of estimators\
+  > data cmplx. 🆙 rapidly =>  model cmplx. so learning prob. in depth is very helpful.
 
 [^1]: A direct approach to sparse discriminant analysis in ultra-high dimensions
