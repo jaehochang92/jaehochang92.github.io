@@ -5,14 +5,15 @@ output: html_document
 
 ```{css, echo=F}
 body {
-  background-color: #2e2e2e;
-  color: bisque;
+  background-color: bisque;
+  color: #2e2e2e;
   font-family: Bitter;
+  font-size: 1.2rem;
 }
 @media screen and (prefers-color-scheme: light) {
   body {
-    background-color: white;
-    color: black;
+    background-color: bisque;
+    color: #2e2e2e;
   }
 }
 ```
@@ -25,7 +26,7 @@ opts_chunk$set(echo = F)
 ```{r, include=FALSE, echo=F}
 library(dplyr, verbose = F)
 library(stringr, verbose = F)
-library(kableExtra)
+library(DT)
 df = read.csv('usnr.csv')
 ```
 
@@ -65,10 +66,18 @@ df <-
       )
     )
   ))
-df %>% kbl() %>%
-  kable_paper(full_width = F) %>%
-  row_spec(1:nrow(df), color = 'gray') %>%
-  row_spec((1:nrow(df))[df$Results == 'Pen'], color = 'white') %>%
-  row_spec((1:nrow(df))[df$Results == 'Rej'], color = 'red', bold = T) %>%
-  row_spec((1:nrow(df))[df$Results == 'Acc'], color = 'green', bold = T)
+
+df %>%
+  datatable(
+    rownames = F,
+    filter = list(
+      position = 'top',
+      clear = TRUE,
+      plain = FALSE
+    ),
+    options = list(pageLength = 25, autoWidth = TRUE)
+  ) %>%
+  formatStyle(colnames(df),
+              color = 'bisque',
+              backgroundColor = '#2e2e2e')
 ```
