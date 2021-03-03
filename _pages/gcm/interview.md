@@ -48,6 +48,6 @@ author_profile: true
   > * data cmplx. 🆙 rapidly => model cmplx. so 1 2 to learn prob. in depth.
 
 * \_\_\_\_\_\_ has many great professors who study biostatistics, statistical genetics, and high-dimensional data analysis which are close to my interests.\
-ㄴ <span style="color:yellow"> Yuying Xie, Haolei Weng, Yuehua Cui, Gustapo de los Campos
+ㄴ <span style="color:yellow"> _Yuying Xie, Haolei Weng, Yuehua Cui, Gustapo de los Campos_
 
 [^1]: A direct approach to sparse discriminant analysis in ultra-high dimensions
