@@ -5,16 +5,10 @@ output: html_document
 
 ```{css, echo=F}
 body {
-  background-color: bisque;
-  color: #2e2e2e;
+  background-color: #2e2e2e;
+  color: bisque;
   font-family: Bitter;
-  font-size: 1.2rem;
-}
-@media screen and (prefers-color-scheme: light) {
-  body {
-    background-color: bisque;
-    color: #2e2e2e;
-  }
+  font-size: 1.3rem;
 }
 ```
 
