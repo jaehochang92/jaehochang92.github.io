@@ -67,7 +67,8 @@ df <-
   ))
 df %>% kbl() %>%
   kable_paper(full_width = F) %>%
-  row_spec((1:nrow(df))[df$Results == 'Pen'], color = 'gray') %>%
+  row_spec(1:nrow(df), color = 'gray') %>%
+  row_spec((1:nrow(df))[df$Results == 'Pen'], color = 'white') %>%
   row_spec((1:nrow(df))[df$Results == 'Rej'], color = 'red', bold = T) %>%
   row_spec((1:nrow(df))[df$Results == 'Acc'], color = 'green', bold = T)
 ```
