@@ -43,7 +43,7 @@ author_profile: true
 
 * rigorous training in probability and asymptotics
   
-* many courses on biostatistical methodologies: STT 808, 809, 849, 855, 860 
+* many courses on biostatistical methodologies: <span style="color:yellow">STT 808, 809, 849, 855, 860 
 
 * \_\_\_\_\_\_ has many great professors who study biostatistics, statistical genetics, and high-dimensional data analysis which are close to my interests.\
 ㄴ <span style="color:yellow"> _Yuying Xie, Haolei Weng, Yuehua Cui, Gustapo de los Campos_
