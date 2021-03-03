@@ -10,9 +10,8 @@ author_profile: true
 * unique interests in using math. to impact our lives
 * 🔬 on college majors => statistics is a math. science that learns our world and nature from the data
 * benefits: 
-  > ... <span style="color:yellow">a political conflict on national health and welfare topics
-
-  > ... using GLMs and statistical learning algorithms(XGboosting, RF)
+  > * <span style="color:yellow">a political conflict on national health and welfare topics
+  > * using GLMs and statistical learning algorithms(XGboosting, RF)
 * after witnessing ... => interested in using statistical models on the <span style="color:yellow">biomedical data 
 * HD var. sel. => an appl. paper on HD peanlized LS during my master's course
 
@@ -32,19 +31,20 @@ author_profile: true
 
 * ultimate profss. goal: scholar developing statistical methodologies
 * In the future: 
-  > . postdoc training in the <span style="color:yellow">public health sector</span>\
-  > . engage with other scientists in <span style="color:yellow">interdisciplinary studies 
+  > * postdoc training in the <span style="color:yellow">public health sector</span>
+  > * engage with other scientists in <span style="color:yellow">interdisciplinary studies 
 * faculty: develops methodologies for <span style="color:yellow">the most complex human diseases like cancer, tumor, and alzheimer's
 
-* aspirational!
+* aspirational! => need help!
 
 ## Why us?
 
-I 1 2 study in \______ bc. \______ can provide me a firm academic education and background for my future career.
+* I 1 2 study in \_\_\_\_\_\_ bc. \_\_\_\_\_\_ can provide me a firm academic education and background for my future career.
 
-rigorous training in probability
-  > necss. tool for studying asympt. behav. of s. models.\
-  > ㄴ e.g.) show the var. sel. consistency of estimators\
-  > data cmplx. 🆙 rapidly =>  model cmplx. so learning prob. in depth is very helpful.
+* rigorous training in probability
+  > * necss. tool for studying asympt. behav. of s. models.\
+  > . e.g.) show the var. sel. consistency of estimators OR \
+  > . asympt. normality of estimator distributions\
+  > * data cmplx. 🆙 rapidly => model cmplx. so 1 2 to learn prob. in depth.
 
 [^1]: A direct approach to sparse discriminant analysis in ultra-high dimensions
