@@ -18,12 +18,14 @@ body {
 ```
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = F)
+library(knitr, verbose = F)
+opts_chunk$set(echo = F)
 ```
 
 ```{r, include=FALSE, echo=F}
 library(dplyr, verbose = F)
 library(stringr, verbose = F)
+library(kableExtra)
 df = read.csv('usnr.csv')
 ```
 
@@ -63,6 +65,9 @@ df <-
       )
     )
   ))
-knitr::kable(df)
-cat('Applied to', sum(df$Results != ''), 'programs')
+df %>% kbl() %>%
+  kable_paper(full_width = F) %>%
+  row_spec((1:nrow(df))[df$Results == 'Pen'], color = 'gray') %>%
+  row_spec((1:nrow(df))[df$Results == 'Rej'], color = 'red', bold = T) %>%
+  row_spec((1:nrow(df))[df$Results == 'Acc'], color = 'green', bold = T)
 ```
