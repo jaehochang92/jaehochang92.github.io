@@ -44,7 +44,7 @@ author_profile: true
 * rigorous training in probability
   > * necss. tool for studying asympt. behav. of s. models.\
   > . e.g.) show the var. sel. consistency of estimators OR \
-  > . asympt. normality of estimator distributions\
+  > . asympt. normality of estimator distributions
   > * data cmplx. 🆙 rapidly => model cmplx. so 1 2 to learn prob. in depth.
 
 * \_\_\_\_\_\_ has many great professors who study biostatistics, statistical genetics, and high-dimensional data analysis which are close to my interests.\
