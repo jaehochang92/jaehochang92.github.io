@@ -46,6 +46,6 @@ author_profile: true
 * many courses on biostatistical methodologies: <span style="color:yellow">STT 808, 809, 849, 855, 860 
 
 * \_\_\_\_\_\_ has many great professors who study biostatistics, statistical genetics, and high-dimensional data analysis which are close to my interests.\
-ㄴ <span style="color:yellow"> _Yuying Xie, Haolei Weng, Yuehua Cui, Gustapo de los Campos_
+ㄴ <span style="color:yellow"> _Yuying Xie, Haolei Weng, Yuehua Cui_
 
 [^1]: A direct approach to sparse discriminant analysis in ultra-high dimensions
