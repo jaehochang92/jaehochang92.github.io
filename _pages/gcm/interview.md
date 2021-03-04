@@ -41,7 +41,7 @@ author_profile: true
 
 * I 1 2 study in \_\_\_\_\_\_ bc. \_\_\_\_\_\_ can provide me a firm academic education and background for my future career.
 
-* rigorous training in probability and asymptotics
+* rigorous training in theories and math
   
 * many courses on biostatistical methodologies: <span style="color:yellow">STT 808, 809, 849, 855, 860 
 
