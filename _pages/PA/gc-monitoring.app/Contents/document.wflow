@@ -60,7 +60,7 @@
 				<dict>
 					<key>COMMAND_STRING</key>
 					<string>cd /Users/jangjaeho/jae-github/jaehochang92.github.io/_pages/PA
-/usr/local/Caskroom/miniconda/base/bin/python3 gcm.py -p biostatistics -i of\ florida
+/usr/local/Caskroom/miniconda/base/bin/python3 gcm.py -p biostatistics -i 'of florida'
 /usr/local/Caskroom/miniconda/base/bin/python3 gcm.py -p biostatistics -i chapel
 /usr/local/Caskroom/miniconda/base/bin/python3 gcm.py -p statistics -i ohio
 /usr/local/Caskroom/miniconda/base/bin/python3 gcm.py -p statistics -i pittsburgh
