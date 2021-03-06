@@ -63,7 +63,7 @@
 /usr/local/Caskroom/miniconda/base/bin/python3 gcm.py -p biostatistics -i florida
 /usr/local/Caskroom/miniconda/base/bin/python3 gcm.py -p biostatistics -i chapel
 /usr/local/Caskroom/miniconda/base/bin/python3 gcm.py -p statistics -i ohio
-/usr/local/Caskroom/miniconda/base/bin/python3 gcm.py -p statistics -i 'pitt*'
+/usr/local/Caskroom/miniconda/base/bin/python3 gcm.py -p statistics -i pitt*
 /usr/local/Caskroom/miniconda/base/bin/python3 gcm.py -p statistics -i riverside
 /usr/local/Caskroom/miniconda/base/bin/python3 gcm.py -p statistics -i barbara
 /usr/local/Caskroom/miniconda/base/bin/python3 gcm.py -p statistics -i davis
