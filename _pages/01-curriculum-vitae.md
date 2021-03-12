@@ -56,3 +56,18 @@ __서울외국어고등학교 졸업 (프랑스어 전공), 2011__
 		</tr>
 	</tbody>
 </table>
+
+## 기타
+#### Nonparametric Function Estimation, Spring 2019, Konkuk University
+1. <a href='https://jaehochang92.github.io/_pages/academic/convolution.html' target='_blank'>Convolution of density functions</a>
+2. <a href='ash' target='_blank'>Average shifted histogram implemented in C++ and R</a>
+3. <a href='https://cjhsfl.shinyapps.io/ProductKernel' target='_blank'>Product kernel implemented in R</a>
+4. <a href='https://jaehochang92.github.io/_pages/academic/nfefinal.html' target='_blank'>Final project report</a>
+
+#### Presentations & lecture notes
+1. <a href='https://jaehochang92.github.io/_pages/academic/glm_det.pdf' target='_blank'>Coefficient of determination for GLMs</a>
+2. <a href='https://jaehochang92.github.io/_pages/academic/bayesab.html' target='_blank'> Bayesian AB testing</a>
+
+#### Miscellaneous
+1. <a href='api' target='_blank'>Building an API using Python Flask</a>
+2. <a href="https://cjhsfl.shinyapps.io/OrderMe" target='_blank'>OrderMe.io</a>

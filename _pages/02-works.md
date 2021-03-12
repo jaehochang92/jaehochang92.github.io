@@ -36,17 +36,3 @@ SK C&C X 고려대학교 의료원, 2018.6--2019.9
     >1.데이터 정제 및 통계분석\
     >2.XGBoost 및 Bagging 알고리즘을 기반으로 분류모형 개발\
     >3.추천 시스템 서비스를 위한 예측모형 API 제작
-
-## Nonparametric Function Estimation, Spring 2019, Konkuk University
-1. <a href='https://jaehochang92.github.io/_pages/academic/convolution.html' target='_blank'>Convolution of density functions</a>
-2. <a href='ash' target='_blank'>Average shifted histogram implemented in C++ and R</a>
-3. <a href='https://cjhsfl.shinyapps.io/ProductKernel' target='_blank'>Product kernel implemented in R</a>
-4. <a href='https://jaehochang92.github.io/_pages/academic/nfefinal.html' target='_blank'>Final project report</a>
-
-## Presentations & lecture notes
-1. <a href='https://jaehochang92.github.io/_pages/academic/glm_det.pdf' target='_blank'>Coefficient of determination for GLMs</a>
-2. <a href='https://jaehochang92.github.io/_pages/academic/bayesab.html' target='_blank'> Bayesian AB testing</a>
-
-## Miscellaneous
-1. <a href='api' target='_blank'>Building an API using Python Flask</a>
-2. <a href="https://cjhsfl.shinyapps.io/OrderMe" target='_blank'>OrderMe.io</a>
