@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Curriculum Vitae"
+  - title: "소개"
     url: /cv/
 
-  - title: "Academic Works"
-    url: /academic/
+  - title: "수행과제"
+    url: /works/
 
   # - title: "Teaching"
   #   url: /teaching/
@@ -12,8 +12,8 @@ main:
   # - title: "Study"
     # url: /study/
 
-  - title: "Music"
-    url: /music/
+  # - title: "Music"
+  #   url: /music/
 
   - title: "Contact"
     url: /contact/
