@@ -6,6 +6,7 @@ author_profile: true
 
 ## 학력
 __건국대학교 응용통계 석사 졸업, 2020__
+* 수업조교: 회귀분석, 수리통계학, 우도함수이론, 분포이론, 비모수 함수추정
 * 2019 한국 통계학회 춘계 학술대회 SG 포스터 논문상 수상, _Ultimate sharpening of Jensen’s Inequality_
 
 __건국대학교 응용통계 학사 졸업, 2018__
