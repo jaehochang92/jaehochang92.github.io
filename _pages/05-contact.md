@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Contact Me"
+title: "연락처"
 permalink: /contact/
 author_profile: true
 ---

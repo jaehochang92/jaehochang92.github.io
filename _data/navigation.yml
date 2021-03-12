@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "소개"
+  - title: "실무경력"
     url: /cv/
 
-  - title: "수행과제"
+  - title: "이력"
     url: /works/
 
   # - title: "Teaching"
