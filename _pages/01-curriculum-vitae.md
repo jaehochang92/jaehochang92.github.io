@@ -4,54 +4,51 @@ permalink: /cv/
 author_profile: true
 ---
 
-## Education
-__M.A. in Applied Statistics, Mar 2018 -- Feb 2020, Konkuk University, Seoul, South Korea__
-* Advisor: Dr. Kyusang Yu
-* Co-advisor: Dr. Sunghoon Kwon
+## 교육
+__건국대학교 응용통계 석사 졸업, 2020__
 
-__B.A. in Applied Statistics, Mar 2012 -- Feb 2018, Konkuk University, Seoul, South Korea__
-* WES credential report: 3.75 in US GPA
-* Served in Republic of Korea Army from Feb 2014 to Nov 2015
+__건국대학교 응용통계 학사 졸업, 2018__
+* 평점 4.09, 전공평점 4.31 (4.5 만점)
 
-## Academic Awards
-__Poster awards, May 25, 2019, 2019 Spring Conference, Korean Statistical Society__
-* Honorable mention awarded for the poster presentation of _Ultimate sharpening of Jensen’s Inequality_
+__서울외국어고등학교 졸업 (프랑스어 전공), 2011__
 
-## Technical Strengths
+## 상벌
+__2019 한국통계학회 춘계 학술대회__
+* SG 포스터 논문상 수상, _Ultimate sharpening of Jensen’s Inequality_
+
+## 컴퓨터 활용능력
 
 <table font-size="medium">
 	<thead>
 		<tr>
-			<th>Category</th>
-			<th>Elements</th>
+			<th>범주</th>
+			<th>요소</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td><strong>Programming Languages</strong></td>
+			<td><strong>프로그래밍 언어</strong></td>
 			<td>
                 C, C++, bash, Python, R
             </td>
 		</tr>
 		<tr>
-			<td><strong>Domain-specific Languages</strong></td>
+			<td><strong>도메인 특화 언어</strong></td>
 			<td>
                 HTML, CSS, Sass, SQL, Markdown, Latex
             </td>
 		</tr>
 		<tr>
-			<td><strong>Softwares</strong></td>
+			<td><strong>소프트웨어</strong></td>
 			<td>
                 SPSS, Gephi, R Studio, PyCharm, conda, Jekyll, git
             </td>
 		</tr>
 		<tr>
-			<td><strong>Platforms</strong></td>
+			<td><strong>플랫폼</strong></td>
 			<td>
                 AWS Sagemaker, Google Cloud API, docker
             </td>
 		</tr>
 	</tbody>
 </table>
-
-## <a href='https://www.linkedin.com/in/jaehochang92/?locale=en_US' target='_blank'>Experiences(LinkedIn profile)</a>
