@@ -1,0 +1,71 @@
+---
+layout: site
+title: Research
+permalink: /research/
+excerpt: "Statistical frameworks for network dependence, heterogeneous transfer, and federated personalization."
+---
+
+<header class="page-hero">
+  <div class="wrap reveal">
+    <p class="section__eyebrow">Agenda</p>
+    <h1 class="section__title">Research program</h1>
+    <p class="section__lede">
+      My long-term goal is a unified statistical theory explaining how dependence, heterogeneity, and decentralization shape the limits of learning and inference—and to lead a group that develops rigorous guarantees for structured learning systems.
+    </p>
+    <div class="download-row" style="margin-top: 0;">
+      <a class="btn btn--primary" href="{{ '/files/JC-ResearchStatement.pdf' | relative_url }}">Research statement (PDF)</a>
+      <a class="btn btn--ghost" href="{{ '/publications/' | relative_url }}">Publications</a>
+    </div>
+  </div>
+</header>
+
+<div class="page-body">
+  <div class="wrap">
+    <article class="research-block reveal">
+      <h2>Vision</h2>
+      <p>
+        Modern data violate classical independence assumptions: observations interact through networks, arise from distinct sensing modalities, and reside across distributed systems. These structural constraints challenge identifiability, asymptotic validity, and reproducibility. I integrate tools from statistics, optimization, and information theory to construct learning principles that remain reliable and interpretable in such environments, clarifying the trade-offs among accuracy, privacy, and generalizability.
+      </p>
+    </article>
+
+    <article class="research-block reveal">
+      <h2>01 · Embedding Network Autoregression</h2>
+      <p>
+        Embedding Network Autoregression (ENAR) provides a unified framework for network time-series analysis and causal peer-effect inference. Peer effects measure how individual behaviors propagate through social or biological networks, but such inference is often confounded by unobserved homophily—latent similarities that influence both tie formation and outcomes.
+      </p>
+      <p>
+        ENAR embeds these latent factors into the autoregressive dynamics through latent-space random-graph models. We prove asymptotic normality of the regression estimators under both finite- and infinite-time regimes: the first for peer-effect estimation and the second for networked forecasting. Omitting or under-specifying the latent dimension introduces asymptotic bias, while over-selection is asymptotically negligible. Empirical studies—including behavioral contagion among 7,000 students and spatial wind forecasting—demonstrate substantial causal and predictive gains. This work is accepted (conditioned on minor revision) at the <em>Journal of Machine Learning Research</em>.
+      </p>
+    </article>
+
+    <article class="research-block reveal">
+      <h2>02 · Heterogeneous Transfer Learning</h2>
+      <p>
+        Heterogeneous Transfer Learning (HTL) investigates how to transfer information across datasets with non-overlapping feature spaces. Related studies may share outcome and covariate structure while differing in measured features—creating feature-level heterogeneity that blocks direct model transfer.
+      </p>
+      <p>
+        By learning feature mappings through proxy domains and correcting for cross-domain discrepancy, we obtain finite-sample bounds that reveal how transfer efficiency depends on mapping and model complexity. Applications to ovarian-cancer survival improve prediction by over 15% relative to approaches that ignore feature mismatch. Ongoing work develops nonlinear sieve-based mappings and data-integration pipelines for metabolomics and multi-omics.
+      </p>
+    </article>
+
+    <article class="research-block reveal">
+      <h2>03 · Federated Learning with Personalization</h2>
+      <p>
+        Building on this foundation, I am developing a statistical theory for decentralized learning in which local data remain private and only model summaries are shared. Each client’s estimator is modeled as a noisy sample from an unknown population prior <em>G</em>. The server estimates this prior using nonparametric maximum likelihood and Empirical Bayes principles, producing a personalized update that shrinks each local estimator toward the empirical-Bayes population mean.
+      </p>
+      <p>
+        I am establishing an oracle denoising inequality that provides non-asymptotic risk bounds when client-level estimators are M-estimators—connecting classical empirical-process theory with modern federated systems and formalizing how privacy-preserving information exchange can improve estimation efficiency.
+      </p>
+    </article>
+
+    <article class="research-block reveal">
+      <h2>Future directions</h2>
+      <p>
+        The next phase focuses on asymptotic efficiency, adaptive generalization, and computational scalability in dynamic, heterogeneous environments: extending ENAR to networks whose edges evolve jointly with outcomes; sharpening efficiency and adaptivity for transfer under feature mismatch; and scaling federated empirical Bayes with stronger guarantees under communication and privacy constraints.
+      </p>
+      <p>
+        Collectively, these projects form a coherent program on trustworthy statistical learning under dependence, heterogeneity, and decentralization.
+      </p>
+    </article>
+  </div>
+</div>

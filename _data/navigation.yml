@@ -1,10 +1,16 @@
-# main links links
+# main links
 main:
-  - title: "CV/Bio"
-    url: /files/lantaoyu_cv.pdf
+  - title: "Research"
+    url: "/#research"
 
   - title: "Publications"
     url: /publications/
-    
+
+  - title: "Agenda"
+    url: /research/
+
+  - title: "CV"
+    url: /files/jaechang_cv.pdf
+
   - title: "Contact"
-    url: /contact/
+    url: /#contact

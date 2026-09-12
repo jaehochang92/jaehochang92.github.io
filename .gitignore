@@ -1,4 +1,5 @@
 _site/
+_preview/
 .idea
 .DS_Store
 */.DS_Store
