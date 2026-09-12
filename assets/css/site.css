@@ -723,7 +723,7 @@ a:hover {
   .hero__portrait {
     justify-self: start;
     order: -1;
-    width: min(100%, 200px);
+    width: min(100%, 400px);
   }
 
   .timeline__item {
