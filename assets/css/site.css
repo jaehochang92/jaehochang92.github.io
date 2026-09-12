@@ -216,7 +216,7 @@ a:hover {
 
 .hero__portrait {
   justify-self: end;
-  width: min(100%, 800px);
+  width: min(100%, 520px);
 }
 
 .hero__portrait img {
