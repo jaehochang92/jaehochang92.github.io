@@ -184,51 +184,48 @@ a:hover {
   position: relative;
   min-height: calc(100vh - var(--header-h));
   display: grid;
-  align-items: stretch;
+  align-items: center;
   overflow: hidden;
   isolation: isolate;
 }
 
 .hero__atmosphere {
   position: absolute;
-  inset: 0;
+  inset: -10% -5% auto;
+  height: 120%;
   background:
-    linear-gradient(105deg,
-      rgba(244, 247, 251, 0.96) 0%,
-      rgba(244, 247, 251, 0.9) 32%,
-      rgba(244, 247, 251, 0.55) 48%,
-      rgba(244, 247, 251, 0.18) 62%,
-      rgba(244, 247, 251, 0.02) 78%,
-      transparent 100%),
-    radial-gradient(ellipse 55% 50% at 18% 30%, rgba(40, 109, 192, 0.14), transparent 70%);
-  z-index: 1;
+    radial-gradient(ellipse 55% 45% at 78% 35%, rgba(40, 109, 192, 0.18), transparent 70%),
+    radial-gradient(ellipse 40% 35% at 12% 70%, rgba(0, 53, 107, 0.1), transparent 65%),
+    linear-gradient(135deg, rgba(255, 255, 255, 0.5), transparent 55%);
+  z-index: 0;
   pointer-events: none;
   animation: mistDrift 18s ease-in-out infinite alternate;
 }
 
+.hero__grid {
+  position: relative;
+  z-index: 1;
+  width: min(100% - 2.5rem, var(--wrap));
+  margin: 0 auto;
+  padding: clamp(2.5rem, 8vh, 4.5rem) 0;
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.7fr);
+  gap: clamp(1.5rem, 4vw, 3rem);
+  align-items: center;
+}
+
 .hero__portrait {
-  position: absolute;
-  inset: 0;
-  z-index: 0;
+  justify-self: end;
+  width: min(100%, 260px);
 }
 
 .hero__portrait img {
   width: 100%;
-  height: 100%;
+  aspect-ratio: 4 / 5;
   object-fit: cover;
-  object-position: 72% 16%;
-}
-
-.hero__grid {
-  position: relative;
-  z-index: 2;
-  width: min(100% - 2.5rem, var(--wrap));
-  margin: 0 auto;
-  padding: clamp(3rem, 10vh, 6rem) 0;
-  display: grid;
-  grid-template-columns: minmax(0, 34rem) 1fr;
-  align-items: center;
-  min-height: calc(100vh - var(--header-h));
+  object-position: center 12%;
+  border-radius: 16px;
+  box-shadow: var(--shadow-soft);
 }
 
 .hero__brand {
@@ -329,11 +326,11 @@ a:hover {
 @keyframes portraitIn {
   from {
     opacity: 0;
-    transform: scale(1.04);
+    transform: translateY(16px);
   }
   to {
     opacity: 1;
-    transform: scale(1);
+    transform: translateY(0);
   }
 }
 
@@ -713,26 +710,20 @@ a:hover {
     grid-template-columns: 1fr;
   }
 
-  .hero__atmosphere {
-    background:
-      linear-gradient(180deg, rgba(244, 247, 251, 0.55) 0%, rgba(244, 247, 251, 0.88) 48%, rgba(244, 247, 251, 0.97) 100%),
-      radial-gradient(ellipse 70% 40% at 50% 0%, rgba(40, 109, 192, 0.14), transparent 70%);
-  }
-
-  .hero__portrait img {
-    object-position: 60% 12%;
+  .hero {
+    min-height: auto;
   }
 
   .hero__grid {
     grid-template-columns: 1fr;
-    align-items: end;
+    padding-top: 2rem;
     padding-bottom: 2.5rem;
   }
 
-  .hero__brand,
-  .hero__headline,
-  .hero__support {
-    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.35);
+  .hero__portrait {
+    justify-self: start;
+    order: -1;
+    width: min(100%, 200px);
   }
 
   .timeline__item {
