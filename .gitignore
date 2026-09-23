@@ -4,3 +4,5 @@ _preview/
 .DS_Store
 */.DS_Store
 portfolio/
+preview.py
+__pycache__/
